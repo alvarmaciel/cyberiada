@@ -10,7 +10,6 @@ categories:
 - traducciones
 ---
 
-
 Traducción del poema feminista sobre la ciencia de Neil Gaiman, recitado por Amanda Palmer y  publicado en [Brain Pickings](http://bit.ly/2rNRWZc)
 
 ![]({{site.url}}{{site.baseurl}}/assets/img/mushroom.gif)
@@ -20,7 +19,7 @@ Traducción del poema feminista sobre la ciencia de Neil Gaiman, recitado por Am
     Está basada en la observación, la experimentación, la medición,
     y la formulación de leyes para describir los hechos revelados.
 
-    En los viejos tiempos, se dice, los hombres vinieron preparados con cerebros
+  En los viejos tiempos, se dice, los hombres vinieron preparados con cerebros
 	diseñados para seguir a las bestias de carne a la carrera,
 	para atravesar ciegamente lo desconocido,
 	y para después encontrar el camino a casa si se perdían,
