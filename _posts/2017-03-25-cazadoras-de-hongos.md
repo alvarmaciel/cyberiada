@@ -12,7 +12,7 @@ categories:
 
 Traducción del poema feminista sobre la ciencia de Neil Gaiman, recitado por Amanda Palmer y  publicado en [Brain Pickings](http://bit.ly/2rNRWZc)
 
-![]({{site.url}}{{site.baseurl}}/assets/img/mushroom.gif)
+![]({{site.url}}/assets/img/mushroom.gif)
 
     La ciencia, como bien sabes, mi pequeño, es el estudio
     de la naturaleza y el funcionamiento del universo.
