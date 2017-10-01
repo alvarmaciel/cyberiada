@@ -39,7 +39,7 @@ Here's how I introduce the game and my philosophy:
 
 ## CHARACTER CREATION
 
-Players select their playbooks and fill out everything as usual, saving Bonds for later. **Don't go around the table and have them introduce their characters**. We'll learn about the characters by learning about their relationship to the story.  See my list of common DW character creation confusions in Appendix D[^Appendix D].
+Players select their playbooks and fill out everything as usual, saving Bonds for later. **Don't go around the table and have them introduce their characters**. We'll learn about the characters by learning about their relationship to the story.  See my list of common DW character creation confusions in Appendix D[^Appendix-D].
 
 ## MAKING THE MAP 
 
@@ -128,13 +128,14 @@ You can ask other players some follow-on questions if you want to butter up the 
 
 
 ### PREMISE QUESTIONS
+
 By “premise,” I mean “what are the characters doing and why?” Premise generation is the most critical part of this setup. 
 
 
-HOW MANY PREMISES? In my experience, it definitely works to have multiple distinct premises in a four-player game. Sometimes they'll tangle up in weird ways in the final scene, which is usually pretty satisfying. Having just one premise is fine too; it’ll just make the game simpler.
+**HOW MANY PREMISES?** In my experience, it definitely works to have multiple distinct premises in a four-player game. Sometimes they'll tangle up in weird ways in the final scene, which is usually pretty satisfying. Having just one premise is fine too; it’ll just make the game simpler.
 
 
-THE FINAL DESTINATION: Make sure that all premises point towards a single location on your map. That's the location where your final scene will take place. I'm going to talk about that location a bunch, so I'll give it a name and call it the Final Destination.  
+**THE FINAL DESTINATION**: Make sure that all premises point towards a single location on your map. That's the location where your final scene will take place. I'm going to talk about that location a bunch, so I'll give it a name and call it the Final Destination.  
 
 
 When you make the first premise, the space you assign it to becomes the Final Destination. If you establish another premise, make sure it references that Final Destination.
@@ -143,14 +144,28 @@ When you make the first premise, the space you assign it to becomes the Final De
 Here are some basic questions that will establish premise:
 
 
-Paladin, what is your quest?
-Thief, what have you come here to steal?
-Wizard, what magic or mystery draws you here?
-Cleric, what prophecy are you trying to fulfill or thwart here?
-Druid, what troubles this land, and how can these adventurers help?
-Barbarian, what appetite has brought you here? How will you satisfy it?
-Bard, what legend drew you here? What do you hope to see while you are here?
-Anyone, why are you traveling to this place?
+>Paladin, what is your quest?
+
+
+>Thief, what have you come here to steal?
+
+
+>Wizard, what magic or mystery draws you here?
+
+
+>Cleric, what prophecy are you trying to fulfill or thwart here?
+
+
+>Druid, what troubles this land, and how can these adventurers help?
+
+
+>Barbarian, what appetite has brought you here? How will you satisfy it?
+
+
+>Bard, what legend drew you here? What do you hope to see while you are here?
+
+
+>Anyone, why are you traveling to this place?
 
 
 Once you've established premises, it's time to tangle the party in them. You'll use your GM skills to draw triangles between two characters and the premise in classic Apocalypse World fashion. 
@@ -159,24 +174,40 @@ Once you've established premises, it's time to tangle the party in them. You'll 
 For example, you can use player-premise-player triangles to place characters in tension. For example:
 
 
-<GM> Paladin, what is your quest?
-<Paladin> I'm here to prevent the Necromancer from completing her spell.
-<GM> Thief, what do you need to steal from the Necromancer?
-<GM> Wizard, are you still friends with the Necromancer? Where did you first meet her?
-<GM> Fighter, who do you know who is a thrall of the Necromancer?
+><GM> Paladin, what is your quest?
+
+
+><Paladin> I'm here to prevent the Necromancer from completing her spell.
+
+
+><GM> Thief, what do you need to steal from the Necromancer?
+
+
+><GM> Wizard, are you still friends with the Necromancer? Where did you first meet her?
+
+
+><GM> Fighter, who do you know who is a thrall of the Necromancer?
 
 
 If you’d like a less contentious game, you can use also use triangles to make characters' objectives complement each other. For example:
 
 
-<GM> Druid, what troubles this land?
-<Druid> The swamp dragon Poxtoxalis, who takes too much prey.
-<GM> Fighter, why do you want to slay Poxtoxalis?
-<GM> Thief, what have you stolen from Poxtoxalis? 
-<GM> Ranger, what happened when you tried to hunt Poxtoxalis?
+><GM> Druid, what troubles this land?
 
 
-BEYOND DEATH’S DOOR LIES THE PREMISES: The Last Breath move is a killer feature of Dungeon World and in my experience players really respond to it.  To showcase it, you need a great Death bargain, so let's make one here.
+><Druid> The swamp dragon Poxtoxalis, who takes too much prey.
+
+
+><GM> Fighter, why do you want to slay Poxtoxalis?
+
+
+><GM> Thief, what have you stolen from Poxtoxalis? 
+
+
+><GM> Ranger, what happened when you tried to hunt Poxtoxalis?
+
+
+**BEYOND DEATH’S DOOR LIES THE PREMISES**: The Last Breath move is a killer feature of Dungeon World and in my experience players really respond to it.  To showcase it, you need a great Death bargain, so let's make one here.
 
 
 Put on your evil GM cap and consider your premises.  Think about what's going to happen if the characters don't intervene -- just like if you were creating an Impending Doom for an adventure front. If you haven't got any ideas, then just ask. "Paladin, why are you trying to seize the Book of Elite Summonings from the archmage Doorva?  Why can't he be allowed to keep it? What is he going to do with it?"
@@ -185,59 +216,104 @@ Put on your evil GM cap and consider your premises.  Think about what's going to
 When someone does shuffle off, have them roll Last Breath as normal. On the 7-9 result, Death offers a bargain: if the dying character vows to help make the Impending Doom come true, Death will let them go free!  Consider treating the 2-6 result as the 7-9 result. These bargains are hella fun.
 
 
-Also, keep that Impending Doom in mind for all the usual reasons -- like when you want to rock show signs of an approaching threat or reveal an unwelcome truth.
-OPPOSITION QUESTIONS
+Also, keep that Impending Doom in mind for all the usual reasons -- like *when you want to rock show signs of an approaching threat or reveal an unwelcome truth*.
+
+### OPPOSITION QUESTIONS
 Ask one or more of the following questions to get ideas about the opposition.
 
 
-Bard or Wizard, why do you need protection when you travel here?
-Cleric or Paladin, what enemies of your faith dwell here?
-Druid, who troubles your land?
-Fighter or Barbarian, what have you come here to slay?  Why do you hate or fear them?
-Thief, who controls this territory?
-Ranger, what beasts hunt these lands?
-Anyone, who else in the world wants to achieve <premise>?
-Anyone, what is guarding <premise>?
-MORE QUESTIONS!
-Dungeon World warlock Tim Franzke has compiled a wonderful list of playbook-specific GM hints that will help you be a fan of the characters.  Check it out for more ideas about how to tailor your DW game to your party.
-BONDS
+>Bard or Wizard, why do you need protection when you travel here?
+
+
+
+>Cleric or Paladin, what enemies of your faith dwell here?
+
+
+>Druid, who troubles your land?
+
+
+>Fighter or Barbarian, what have you come here to slay?  Why do you hate or fear them?
+
+
+>Thief, who controls this territory?
+
+
+>Ranger, what beasts hunt these lands?
+
+
+>Anyone, who else in the world wants to achieve <premise>?
+
+
+>Anyone, what is guarding <premise>?
+
+### MORE QUESTIONS!
+
+Dungeon World warlock Tim Franzke has compiled [a wonderful list of playbook-specific GM hints](https://docs.google.com/document/d/1f2MR7NyN41T9QxsYXUhMJCUvXWWX0VYxp1tAtYiOxWs/edit) that will help you be a fan of the characters.  Check it out for more ideas about how to tailor your DW game to your party.
+
+## BONDS
 After you’ve got enough Q&A to establish your scenario, ask each character to write one Bond. If they need a little prompting, here are some questions you can ask that address standard Bonds:
 
 
-Barbarian, who here nearly got you killed?  How?
-Bard, who here have you traveled with before?
-Cleric, who here do you trust as a good and faithful person?  Why?
-Druid, who here have you shared a secret rite of the land with?  Why did you trust them?
-Fighter, who here have you sworn to protect?
-Paladin, who here has stood beside you in battle?
-Ranger, who here have you guided before?
-Thief, who here knows incriminating details about you? <Other Player>, what do you know?
-Wizard, who here will play an important role in the events to come?
+>Barbarian, who here nearly got you killed?  How?
+
+
+>Bard, who here have you traveled with before?
+
+
+>Cleric, who here do you trust as a good and faithful person?  Why?
+
+
+>Druid, who here have you shared a secret rite of the land with?  Why did you trust them?
+
+
+>Fighter, who here have you sworn to protect?
+
+
+>Paladin, who here has stood beside you in battle?
+
+
+>Ranger, who here have you guided before?
+
+
+>Thief, who here knows incriminating details about you? <Other Player>, what do you know?
+
+
+>Wizard, who here will play an important role in the events to come?
 
 
 And here are some questions that could create alternate Bonds:
 
 
-Barbarian, who here would fit in in your homeland?  Who would you invite to come home with you?
-Bard, who here have you heard of before? What did you hear about them?
-Cleric, who did you once refuse to heal?  Why?
-Wizard, who here are you experimenting on? What have you done to them?
-A MOVE TO ESTABLISH MORE BONDS DURING PLAY
-When you Aid or Interfere, roll +Bond like you normally would. If you have no Bond with the recipient, roll +nothing. After your beneficiary makes their move, write a Bond with them inspired by the outcome of the move.﻿
+>Barbarian, who here would fit in in your homeland?  Who would you invite to come home with you?
 
 
-SCENE ONE: GETTING UNDERWAY.
+>Bard, who here have you heard of before? What did you hear about them?
+
+
+>Cleric, who did you once refuse to heal?  Why?
+
+
+>Wizard, who here are you experimenting on? What have you done to them?
+
+### A MOVE TO ESTABLISH MORE BONDS DURING PLAY
+
+**When you Aid or Interfere**, roll +Bond like you normally would. If you have no Bond with the recipient, roll +nothing. After your beneficiary makes their move, write a Bond with them inspired by the outcome of the move.﻿
+
+
+## SCENE ONE: GETTING UNDERWAY.
+
 Okay, we’ve got characters, a setting, and some premises. It’s time to roll dice! Here's my script for kicking that off:
 
 
-"Dungeon World is a conversation between all of us.  Occasionally something will happen in that conversation that'll trigger the rules and some dice rolling. At first, I'll call out those triggered moves, but as you become more familiar with the rules, feel free to call them out yourselves."
+*"Dungeon World is a conversation between all of us.  Occasionally something will happen in that conversation that'll trigger the rules and some dice rolling. At first, I'll call out those triggered moves, but as you become more familiar with the rules, feel free to call them out yourselves."*
 
 
-Start the party in a location that is one or two cards distant from the final location. When the curtain rises, they're face-to-face with some monsters.  Start at the instant where the party first encounters the monsters. Do not start with immediate hostilities. Give the players a chance to short-circuit a fight with a social or knowledge move -- more on that below.
+Start the party in a location that is one or two cards distant from the final location. When the curtain rises, they're face-to-face with some monsters.  Start at the instant where the party first encounters the monsters. **Do not start with immediate hostilities**. Give the players a chance to short-circuit a fight with a social or knowledge move -- more on that below.
 
 
 Describe the surroundings and the monsters and then ask, “what do you do?”
-THE MONSTERS
+
+### THE MONSTERS
 Make sure you know why the monsters are there--it should be relevant  to something revealed in Q&A. Perhaps they are pawns of the big boss sent to fight the party, or perhaps they are competing for the same goals as the party.
 
 
@@ -250,10 +326,11 @@ My practice is to staff the first encounter with a mob of 6-10 mildly threatenin
 My go-to intro monster is something with an entangling move -- a net, a whip, a prehensile tongue, etc.  I've used toad cultists with long item-stealing toad tongues, spider cultists with spinnerets , jackal-headed Anubites with whips.  I'll usually give some of them wings or jumping or burrowing or swimming too. 
 
 
-Do  not use familiar boring old monsters like orcs, goblins, kobolds,etc in the first encounter.  You want the party to be curious about the things they're fighting, to be asking questions and triggering knowledge-gathering moves like Spout, Discern, and Bardic Lore.
+**Do  not use familiar boring old monsters like orcs, goblins, kobolds,etc in the first encounter**.  You want the party to be curious about the things they're fighting, to be asking questions and triggering knowledge-gathering moves like Spout, Discern, and Bardic Lore.
 
 
-EMPHASIZE INFORMATION-GATHERING MOVES
+### EMPHASIZE INFORMATION-GATHERING MOVES
+
 You want the players to be triggering these moves, because each is an expression of curiosity, and each one demonstrates engagement, and you want to reward and respond to engagement. Each knowledge move is a chance for people at the table to reveal plot or setting. And -- importantly!-- knowledge moves can be used to short-circuit encounters and are thus supremely powerful enemies of hit point grind (see the Appendix for an explanation of hit point grind.)
 
 
@@ -421,7 +498,8 @@ Wizards and Rangers are particularly susceptible to boring play.  With their mov
 
 
 Throw those artillery guys into water, get their bowstrings and spellbooks wet. Light them on fire. Send extra flying monsters or jumpers at them. Suggest that they'd be better off if the Fighter could stand in defense for them. The Defense move is pretty great in Dungeon World.  I love mechanics that promote teamwork and I think a well-defended striker is a glorious thing to see.
-[^Appendix D]APPENDIX D: COMMON CHARACTER CREATION HANGUPS:
+
+[^Appendix-D]APPENDIX D: COMMON CHARACTER CREATION HANGUPS:
 a) "HP is based on your Constitution score, not your CON modifier."
 b) "Your standard attribute array is in the tiny black line atop the attribute block.  Yeah, I know it's hard to see."  
 c) "All the armour you have adds up to your armour score."  
