@@ -39,7 +39,7 @@ Here's how I introduce the game and my philosophy:
 
 ## CHARACTER CREATION
 
-Players select their playbooks and fill out everything as usual, saving Bonds for later. **Don't go around the table and have them introduce their characters**. We'll learn about the characters by learning about their relationship to the story.  See my list of common DW character creation confusions in Appendix D[^Appendix-D].
+Players select their playbooks and fill out everything as usual, saving Bonds for later. **Don't go around the table and have them introduce their characters**. We'll learn about the characters by learning about their relationship to the story.  See my list of common DW character creation confusions in [Appendix D](#appendix-d-common-character-creation-hangups).
 
 ## MAKING THE MAP 
 
@@ -331,7 +331,7 @@ My go-to intro monster is something with an entangling move -- a net, a whip, a 
 
 ### EMPHASIZE INFORMATION-GATHERING MOVES
 
-You want the players to be triggering these moves, because each is an expression of curiosity, and each one demonstrates engagement, and you want to reward and respond to engagement. Each knowledge move is a chance for people at the table to reveal plot or setting. And -- importantly!-- knowledge moves can be used to short-circuit encounters and are thus supremely powerful enemies of hit point grind (see the Appendix C for an explanation of hit point grind.)
+You want the players to be triggering these moves, because each is an expression of curiosity, and each one demonstrates engagement, and you want to reward and respond to engagement. Each knowledge move is a chance for people at the table to reveal plot or setting. And -- importantly!-- knowledge moves can be used to short-circuit encounters and are thus supremely powerful enemies of hit point grind (see the Appendix C for an explanation of [hit point grind](#appendix-c-hit-point-grind-is-death)).
 
 
 Early on, find an opportunity to demonstrate their power. Make the result of a knowledge move obviously useful even on a 7-9.  Use your answers to reveal encounter-deciding tactics. Examples from my recent con games: 1) the Paladin's holy symbol is the thing that's stirring up the lake ghouls and if the party hucks it into the water, the undead will dive after it.  2) The jackal-folk of the desert obey their alpha.  Defeating the alpha is the way to become the new alpha.
