@@ -83,11 +83,17 @@ Ask one of these questions to get the baseline of the setting down. I like to di
 Here are some examples:
 
 
-<mark>Druid, what is your homeland?  How is it beautiful?</mark>
-Ranger, what lands do you range?  How are they beautiful?
-Barbarian, what is this land you have traveled to?  How is it strange?
-Thief, what are your stomping grounds?
-Anyone, what is this place you have traveled to?
+<span style="background-color: #FFFF00">Druid, what is your homeland?  How is it beautiful?</span>
+
+
+<span style="background-color: #FFFF00">Ranger, what lands do you range?  How are they beautiful?</span>
+
+
+<span style="background-color: #FFFF00">Barbarian, what is this land you have traveled to?  How is it strange?</span>
+
+<span style="background-color: #FFFF00">Thief, what are your stomping grounds?</span>
+
+<span style="background-color: #FFFF00">Anyone, what is this place you have traveled to?</span>
 
 
 You can ask other players some follow-on questions if you want to butter up the setting:
