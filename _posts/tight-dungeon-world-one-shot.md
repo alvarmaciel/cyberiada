@@ -83,29 +83,51 @@ Ask one of these questions to get the baseline of the setting down. I like to di
 Here are some examples:
 
 
-<span style="background-color: #FFFF00">Druid, what is your homeland?  How is it beautiful?</span>
+>Druid, what is your homeland?  How is it beautiful?
 
 
-<span style="background-color: #FFFF00">Ranger, what lands do you range?  How are they beautiful?</span>
+
+>Ranger, what lands do you range?  How are they beautiful?
 
 
-<span style="background-color: #FFFF00">Barbarian, what is this land you have traveled to?  How is it strange?</span>
 
-<span style="background-color: #FFFF00">Thief, what are your stomping grounds?</span>
+>Barbarian, what is this land you have traveled to?  How is it strange?
 
-<span style="background-color: #FFFF00">Anyone, what is this place you have traveled to?</span>
+
+
+>Thief, what are your stomping grounds?
+
+
+
+>Anyone, what is this place you have traveled to?
 
 
 You can ask other players some follow-on questions if you want to butter up the setting:
 
 
-Bard, when was the last time you were here? What was the place like then? How has it changed?
-Bard, what does your <bard’s chosen expertise> say is special about this place?
-Cleric, why do pilgrims of <cleric’s god> come to this place?  Why is this place special to the god of <cleric’s chosen domain>?
-Fighter, what battle was fought here? Who fought it?
-Thief, what have you stolen from here before?
-Wizard, why is this place a place of power?  What kind of rituals are held here?  What ritual would you conduct here?
-PREMISE QUESTIONS
+>Bard, when was the last time you were here? What was the place like then? How has it changed?
+
+
+
+>Bard, what does your <bard’s chosen expertise> say is special about this place?
+
+
+>Cleric, why do pilgrims of <cleric’s god> come to this place?  Why is this place special to the god of <cleric’s chosen domain>?
+
+
+
+>Fighter, what battle was fought here? Who fought it?
+
+
+
+>Thief, what have you stolen from here before?
+
+
+
+>Wizard, why is this place a place of power?  What kind of rituals are held here?  What ritual would you conduct here?
+
+
+### PREMISE QUESTIONS
 By “premise,” I mean “what are the characters doing and why?” Premise generation is the most critical part of this setup. 
 
 
