@@ -5,9 +5,9 @@ by John Aegard
 
 ## INTRODUCTION
 
-Mi conocimento literario está basado en relatos del genero de ficción, por eso cuando dirijo una partida autoconclusiva de Dungeon World, quiero que el juego parezca una sencilla y tradicional historia de aventuras fantastica -- una historia en la cual algunos personajes viajen a alguna parte, hagan algo, y en la que todos hayan cambiados por el viaje.
+Mi conocimento literario está basado en relatos del genero de ficción, por eso cuando dirijo una partida autoconclusiva de Dungeon World, quiero que el juego parezca una sencilla y tradicional historia de aventuras fantastica -- una historia en la cual algunos personajes viajen a alguna parte, hagan algo, y en la que todos hayan sido cambiados por el viaje.
 
-Tampoco quiero tener que hacer ninguna preparación previa. No quiero aparecer con una ambientación o un escenario o una situación. Por un lado, eso implica trabajo, y soy un vago. Por otro lado, no quiero estar contando mi historia, quiero estar para ayudar a contar nuestra historia. Quiero que todos contribuyan con ideas. No creo en que los jugadores tengan que meter a presión sus contrbuciones a través de la estrecha apertura de sus personajes. . Quiero que todas las cosas importantes del nuestro juego pasen ahí en la mesa, no en mi cabeza de antemano.
+Tampoco quiero tener que hacer ninguna preparación previa. No quiero aparecer con una ambientación o un escenario o una situación. Por un lado, eso implica trabajo, y soy un vago. Por otro lado, no quiero estar contando mi historia, quiero estar para ayudar a contar nuestra historia. Quiero que todos contribuyan con ideas. No creo en que los jugadores tengan que meter a presión sus contribuciones a través de la estrecha apertura de sus personajes. . Quiero que todas las cosas importantes de nuestro juego pasen ahí en la mesa, no en mi cabeza de antemano.
 
 He desarrollado algunas técnicas que me ayudan a acertar en este objetivo de forma bastante consistente. Si quieren dirigir partidas autoconclusivas ajustadas de Dungeon World, ¡esto puede servirles de ayuda!
 
