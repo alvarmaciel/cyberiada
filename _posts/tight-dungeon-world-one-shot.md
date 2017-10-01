@@ -331,7 +331,7 @@ My go-to intro monster is something with an entangling move -- a net, a whip, a 
 
 ### EMPHASIZE INFORMATION-GATHERING MOVES
 
-You want the players to be triggering these moves, because each is an expression of curiosity, and each one demonstrates engagement, and you want to reward and respond to engagement. Each knowledge move is a chance for people at the table to reveal plot or setting. And -- importantly!-- knowledge moves can be used to short-circuit encounters and are thus supremely powerful enemies of hit point grind (see the Appendix for an explanation of hit point grind.)
+You want the players to be triggering these moves, because each is an expression of curiosity, and each one demonstrates engagement, and you want to reward and respond to engagement. Each knowledge move is a chance for people at the table to reveal plot or setting. And -- importantly!-- knowledge moves can be used to short-circuit encounters and are thus supremely powerful enemies of hit point grind (see the Appendix C for an explanation of hit point grind.)
 
 
 Early on, find an opportunity to demonstrate their power. Make the result of a knowledge move obviously useful even on a 7-9.  Use your answers to reveal encounter-deciding tactics. Examples from my recent con games: 1) the Paladin's holy symbol is the thing that's stirring up the lake ghouls and if the party hucks it into the water, the undead will dive after it.  2) The jackal-folk of the desert obey their alpha.  Defeating the alpha is the way to become the new alpha.
@@ -341,8 +341,9 @@ Give similar respect to social moves like Parley. Do be a stickler about making 
 
 
 Also, if it does go to blades, call attention to the fact that Hack and Slash and Volley don’t exactly specify that each roll may only hit one target. Barbarians and Fighters should be jumping into frays and making relish of these pipsqueaks. Rangers should be mowing them down like fresh hay.
-________________
-SCENE TWO: THE BRANCH
+
+## SCENE TWO: THE BRANCH
+
 Okay, the first encounter is done. Now we're going to figure out how the party is going to get to the final location. Put three location cards in a row between their current location and the final location. Let these locations be inspired by anything from the Q&A - the Ranger may have mentioned that she's traveled some mountains, or the Thief may mention a secret entrance via the sewers.
 
 
@@ -355,53 +356,60 @@ Once they make their choice, hit them with an encounter featuring an unusual mon
 Also, partial petrification is a fun thing to do to a player character; I start with eyes, nose, and hair.  It's even more fun when you've got a self-sacrificing Paladin in the party who's eager to show off their moral rectitude with a Lay On Hands, or a Wizard who wants to improvise an anti-petrification ritual.
 
 
-You can do other things in Scene 2 as well. Consider hitting them with a Location move appropriate to the path they chose -- get them lost in the woods, expose them to the elements in the desert, and so forth.  You could also show an opportunity to give them some allies or some help in the final battle -- perhaps a rebel camp full of soldiers they can recruit, an itinerant wizard who knows useful things, a disgruntled henchmen with a map or a password, etc.
-INTERLUDE: LEVEL UP. GO TO THE RESTROOM.
+You can do other things in Scene 2 as well. Consider hitting them with a Location move appropriate to the path they chose -- get them lost in the woods, expose them to the elements in the desert, and so forth.  You could also **show an opportunity** to give them some allies or some help in the final battle -- perhaps a rebel camp full of soldiers they can recruit, an itinerant wizard who knows useful things, a disgruntled henchmen with a map or a password, etc.
+
+## INTERLUDE: LEVEL UP. GO TO THE RESTROOM.
+
 Levelling up is fun and simple in DW. Some of the advanced moves are bananas -- check out the Druid's Elemental Mastery, the Paladin's Bloody Aegis, and the Wizard's Logical.  Logical turns Wizard into tactical geniuses. Bloody Aegis makes Paladins indestructible. Elemental Mastery is the gnarliest power I’ve found in the book.
 
 
 Most players can level up in ten or so minutes -- maybe a bit more for the spellcasters or for people who take multiclass moves.
-SCENE THREE: THE FINALE
+
+## SCENE THREE: THE FINALE
+
 Okay, this is it.  The big finale!  Generally I throw a big boss monster at them, one that is inspired by the Q&A.
 
 
 My fave final boss monster so far is something I call the Chimera-Hydra, a six-headed regenerating beastie. I like it because it’s a single big epic monster that fights like six monsters and it’s got lots of surface to interact with: you can be on top of it, underneath it, clinging to any of six necks, in front of any of six heads, caught up in any of six jaws, etc. It also rewards daring: its heads are formidable but its body is soft.
-Chimera-Hydra 
-huge magical construct
+
+### Chimera-Hydra 
+#### huge magical construct
 
 
-Goat Heads (2): b[2d8] damage, 10 hit points each, 3 armor, forceful
-* Knock them flying
+- **Goat Heads (2)**: b[2d8] damage, 10 hit points each, 3 armor, forceful
+  - Knock them flying
 
 
-Lion Heads (2): b[2d12] damage, 10 hits points each, 2 armor, messy
-* Stun them with a roar
-* Shake and break them
+- **Lion Heads (2)**: b[2d12] damage, 10 hits points each, 2 armor, messy
+  - Stun them with a roar
+  - Shake and break them
 
 
-Flame Serpent Heads (2): b[2d10] damage, 10 hit points each, 2 armor, reach
-* Belch a cone of fire
-* Strike perfectly in the dark
-* Inject venom that boils blood
+- **Flame Serpent Heads (2)**: b[2d10] damage, 10 hit points each, 2 armor, reach
+  * Belch a cone of fire
+  * Strike perfectly in the dark
+  * Inject venom that boils blood
 
 
-Body: b[2d8] damage, 16 hit points, 1 armor
-* Regenerate a head
-* Trample underfoot
-* Fly clumsily
+- **Body**: b[2d8] damage, 16 hit points, 1 armor
+  * Regenerate a head
+  * Trample underfoot
+  * Fly clumsily
 
 
 Whatever monster you use, put some interesting terrain in the encounter area.  Elevation is always a winner, especially elevation that doesn’t hamper the boss monster’s attacks. Set up water to drown in and fire to burn in. A theater / coliseum / bleacher full of spectators is a good add too; nothing gets under a gladiator's skin like a taunt from a drunk man-frog merchant. Maybe the spectators throw sour tomatoes or bricks, doing 1d4 / blinding damage
 
 
-Even while the big battle is raging, there's probably premise stuff to be addressed -- items to be stolen, princes to be rescued, rituals to conduct, etc.  Draw the characters' eyes to these.  Use show them opportunities to get them thinking about the stuff they desire.  Tempt them to place their interests over those of the party.
+Even while the big battle is raging, there's probably premise stuff to be addressed -- items to be stolen, princes to be rescued, rituals to conduct, etc.  Draw the characters' eyes to these.  Use *show them opportunities* to get them thinking about the stuff they desire.  Tempt them to place their interests over those of the party.
 
 
 Play hard enough so they'll go visit Death.
 
 
 Then, once the fight's over, the party will have to resolve the tangles in their premises.  In my experience, this is the highest-energy part of the game, especially if there's contention.  PvP is not unknown to me here.  Sit back and enjoy what you have wrought.
-EPILOGUE
+
+## EPILOGUE
+
 Okay, it's the end of the game and things have resolved!  Go around the table, ending on the character who had the most dramatic stuff happen to them. Ask each player in turn to narrate a short epilogue describing their life in the wake of the adventure.  I love epilogues; they're a nice opportunity for players to solo a bit, let down their defenses, and just say pure story that the GM can't mess with.  
 
 
@@ -409,13 +417,15 @@ Also, you should describe epilogues for any of your favorite NPCs or locations a
 
 
 That's it! Thank everyone for playing and maybe debrief a bit if there's time.
-________________
-APPENDICES: VARIOUS REMARKS ON DUNGEON WORLD PLAY
-APPENDIX A: DEFY DANGER ADVICE
+
+# APPENDICES: VARIOUS REMARKS ON DUNGEON WORLD PLAY
+
+## APPENDIX A: DEFY DANGER ADVICE
+
 The 7-9 result on Defy Danger can be very tough to adjudicate. Here's some guidance for how to make those results fun.
 
 
-LOOK TO YOUR MOVES: To make a worse outcome, look at Defy like this:
+**LOOK TO YOUR MOVES**: To make a worse outcome, look at Defy like this:
 
 
 10+: PC defies danger
@@ -433,10 +443,10 @@ Say Omar the Thief is running from the city guard and rolls a 7-9 with the Dange
 * Separate them -- Omar gets lost!
 
 
-WORSE OUTCOMES CAN BE SOFTENED INTO UGLY CHOICES You can turn a worse outcome into a hard bargain by explaining the worse outcome and asking the player to choose between eating the danger or suffering the worse outcome.  I think this softens the move somewhat; you're collaborating with the player on their fate rather than just imposing it.
+**WORSE OUTCOMES CAN BE SOFTENED INTO UGLY CHOICES** You can turn a worse outcome into a hard bargain by explaining the worse outcome and asking the player to choose between eating the danger or suffering the worse outcome.  I think this softens the move somewhat; you're collaborating with the player on their fate rather than just imposing it.
 
 
-PUT SOMEONE ELSE IN THE CROSSHAIRS.  Is another character in a questionable position?  Can they suffer the downside of the 7-9?  
+**PUT SOMEONE ELSE IN THE CROSSHAIRS.**  Is another character in a questionable position?  Can they suffer the downside of the 7-9?  
 
 
 Say Omar has leapt aboard a panicking wooly mammoth and is trying to calm it while Sanguinus the Paladin battles the crocodile folk nearby.  The Danger for Omar is that the mammoth will continue rampaging.  The Worse Outcome version is that Omar calms the mammoth, but not before it has bowled over Sanguinus.
@@ -451,7 +461,7 @@ Say Omar is reading the Canticle of Sog-Yothoth aloud to close the Murder Gate (
 Sometimes I will totally cheat at this and cut away to another character just before a Defy Danger move is rolled so that the situation can develop some more facets before we start messing it up with mixed successes.
 
 
-CONSIDER IMPLIED DANGERS AT EVERY TIME SCALE:  I usually categorize dangers as immediate dangers, scene dangers, or campaign dangers.  I group them by asking when the pain from the danger will come down.  If it will come down right away, it's an immediate danger.  If it will come down by the end of the scene, it's a scene danger.  If it will come down sometime later, it's a campaign danger.
+**CONSIDER IMPLIED DANGERS AT EVERY TIME SCALE**:  I usually categorize dangers as immediate dangers, scene dangers, or campaign dangers.  I group them by asking when the pain from the danger will come down.  If it will come down right away, it's an immediate danger.  If it will come down by the end of the scene, it's a scene danger.  If it will come down sometime later, it's a campaign danger.
 
 
 For example, let's say that Omar the Thief is jumping from rooftop to rooftop (immediate danger) trying to escape the guard (scene danger) while also remaining anonymous (campaign danger).  That's three dangers in the single action.  One of these must be the stated Danger of the Defy Danger.
@@ -461,11 +471,12 @@ Let's say that the Danger is that he falls. The complications of the mixed succe
 
 
 Alternatively, say the Danger is that he's caught.  On a mixed success, he might elude pursuit -- by falling and spraining his ankle while the pursuit concentrates on the rooftops.  Or he will escape, but lose his anonymity.﻿
-APPENDIX B: MY FAVOURITE QUESTION OF ALL TIME
+
+## APPENDIX B: MY FAVOURITE QUESTION OF ALL TIME
 Sometimes a PC will be completely hooped. They'll wind up in a terrible spot where death looks inevitable. When that happens, don't just murder them! Instead, deploy My Favourite Question Of All Time:
 
 
-"How on earth do you survive THIS?"
+>"How on earth do you survive THIS?"
 
 
 Every single time I have used this question, it has been a huge winner. To demonstrate, here's one of my favorite war stories: 
@@ -484,7 +495,8 @@ Now this elf-wizard was a big old anti-human bigot. And so I sense an opportunit
 
 
 Of course, he boxcars the roll. He awakes in the arms of an elven midwife, centuries later, and there was much applause at the table, even from those who had played humans.
-APPENDIX C: HIT POINT GRIND IS DEATH.
+
+## APPENDIX C: HIT POINT GRIND IS DEATH.
 Because Dungeon World is a game that appears to have "to hit" rolls (Hack & Slash / Volley) and hit points, it is very easy to fall into the old style of tick-tock to-hit, miss, to-hit, hit, damage, to-hit, miss, to-hit, damage, enemy falls, etc, while the fiction lies fallow.  THIS IS BORING, GRINDY DEATH.
 
 
@@ -499,22 +511,26 @@ Wizards and Rangers are particularly susceptible to boring play.  With their mov
 
 Throw those artillery guys into water, get their bowstrings and spellbooks wet. Light them on fire. Send extra flying monsters or jumpers at them. Suggest that they'd be better off if the Fighter could stand in defense for them. The Defense move is pretty great in Dungeon World.  I love mechanics that promote teamwork and I think a well-defended striker is a glorious thing to see.
 
-[^Appendix-D]APPENDIX D: COMMON CHARACTER CREATION HANGUPS:
-a) "HP is based on your Constitution score, not your CON modifier."
-b) "Your standard attribute array is in the tiny black line atop the attribute block.  Yeah, I know it's hard to see."  
-c) "All the armour you have adds up to your armour score."  
-d) “1st-level Wizards have three spells in their spellbook. They can have two of those spells memorized at any time.  They can cast spells as many times as they like, but a poor roll on their Spellcasting move may cause them to forget a spell."
-e) "Ordinarily you'd get XP for failing rolls and doing alignment stuff, but it doesn't matter for this game, we're going to level up halfway through."
-THANKS TO
+### APPENDIX D: COMMON CHARACTER CREATION HANGUPS:
+1. "HP is based on your Constitution score, not your CON modifier."
+2. "Your standard attribute array is in the tiny black line atop the attribute block.  Yeah, I know it's hard to see."  
+3. "All the armour you have adds up to your armour score."  
+4. “1st-level Wizards have three spells in their spellbook. They can have two of those spells memorized at any time.  They can cast spells as many times as they like, but a poor roll on their Spellcasting move may cause them to forget a spell."
+5. "Ordinarily you'd get XP for failing rolls and doing alignment stuff, but it doesn't matter for this game, we're going to level up halfway through."
+
+## THANKS TO
 Gray Pawn, Morgan Stinson, Ross Cowman, Erich Lichnock, Philip LaRose, Jamie Fristrom, Jay Loomis, Victoria Garcia, and everyone else I’ve ever  played with experimented on at Games on Demand.
-FURTHER READING
-* Play Unsafe by Graham Walmsley is an outstanding guide to the use of improvisational techniques in tabletop RPGs.
-* Things To Do In the First Session of Your Dungeon World Game by Tim Franzke has a lot of terrific suggestions that will help you to be a fan of the characters.
-FURTHER CONVERSATIONS
+
+## FURTHER READING
+* _Play Unsafe_ by Graham Walmsley is an outstanding guide to the use of improvisational techniques in tabletop RPGs.
+* [Things To Do In the First Session of Your Dungeon World Game](https://docs.google.com/document/d/1f2MR7NyN41T9QxsYXUhMJCUvXWWX0VYxp1tAtYiOxWs/edit) by Tim Franzke has a lot of terrific suggestions that will help you to be a fan of the characters.
+
+## FURTHER CONVERSATIONS
 See my other game stuff at http://john.aegard.com.
 
 
 If you’d like to talk about this further, you can circle me up on Google Plus, which is where I have most of my RPG conversations these days. I welcome your comments and war stories!
-REVISION HISTORY
+
+## REVISION HISTORY
 2014-09-23: Initial publication.
 2015-08-12: Added new Bonds Aid or Interfere move.
