@@ -39,7 +39,7 @@ links:
     url: /about
 # projects in header index
 projects:
-  - name: itight Dungeon World one-shot
+  - name: Tight Dungeon World one-shot
     url: https://github.com/alvarmaciel/cyberiada/blob/traduccion/tight-dungeon-world-one-shot/_posts/tight-dungeon-world-one-shot.md
 #  - name: vim-frontend
 #    url: https://github.com/victorvoid/vim-frontend
