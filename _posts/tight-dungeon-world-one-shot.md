@@ -43,7 +43,7 @@ Players select their playbooks and fill out everything as usual, saving Bonds fo
 
 ## MAKING THE MAP 
 
-![map]({{site.url}}/assets/img/map.jpg)
+![map](/assets/img/map.jpg)
 
 I like having a map. I don’t use it for anything formal, but it’s a nice grounding of our setting and a chance to doodle. 
 
