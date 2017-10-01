@@ -1,22 +1,19 @@
-# ﻿Dragonslaying on a Timetable: Running Tight 4-Hour Dungeon World One-Shots With Zero Preparation
+# Planificar la Caza de Dragones: Dirigir ajustadas 4 horas de partidas autoconclusivas de Dungeon World, sin ninguna preparación
 
 by John Aegard 
 
 
 ## INTRODUCTION
 
-My literary background is in short genre fiction, so when I run a one-shot of Dungeon World, I want our game to resemble a simple, traditional fantasy adventure story -- a story in which some characters travel somewhere, do something, and in the end are all changed by the journey.
+Mi conocimento literario está basado en relatos del genero de ficción, por eso cuando dirijo una partida autoconclusiva de Dungeon World, quiero que el juego parezca una sencilla y tradicional historia de aventuras fantastica -- una historia en la cual algunos personajes viajen a alguna parte, hagan algo, y en la que todos hayan cambiados por el viaje.
 
+Tampoco quiero tener que hacer ninguna preparación previa. No quiero aparecer con una ambientación o un escenario o una situación. Por un lado, eso implica trabajo, y soy un vago. Por otro lado, no quiero estar contando mi historia, quiero estar para ayudar a contar nuestra historia. Quiero que todos contribuyan con ideas. No creo en que los jugadores tengan que meter a presión sus contrbuciones a través de la estrecha apertura de sus personajes. . Quiero que todas las cosas importantes del nuestro juego pasen ahí en la mesa, no en mi cabeza de antemano.
 
-I also don’t want to do any preparation beforehand. I don’t want to show up with a setting or a scenario or a situation. For one, that’s work, and I’m lazy. For two, I don’t want to be telling my story, I want to be helping to tell our story. I want everyone to contribute ideas. I don’t believe that players have to always squeeze their contributions through the narrow aperture of their character. I want all the important stuff about our game to happen right there at the table, not in my head beforehand.
+He desarrollado algunas técnicas que me ayudan a acertar en este objetivo de forma bastante consistente. Si quieren dirigir partidas autoconclusivas ajustadas de Dungeon World, ¡esto puede servirles de ayuda!
 
+En mi experiencia, estas técnicas sirven para un número máximo absoluto de cinco personajes jugadores. Con cinco, el tiempo de atención es muy justo, especialmente en las peleas. Creo que el número óptimo es de 3-4 personajes jugadores
 
-I’ve evolved some techniques that help me hit this mark pretty consistently.  If you want to run tight Dungeon World one-shots, these may be helpful to you!
-
-
-In my experience, these techniques work for an absolute maximum of five player characters.  At five, the spotlight time is squeezed pretty thin, especially during fights.  I think 3-4 is the optimal number.
-
-## TIMELINE OF THE GAME
+## Cronograma de juego
 
 Here are the milestones I want to hit in those four hours:
 
