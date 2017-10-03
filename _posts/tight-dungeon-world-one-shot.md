@@ -2,6 +2,10 @@
 
 by John Aegard 
 
+**Índice**
+
+* TOC
+{:toc}
 
 ## INTRODUCTION
 
@@ -15,19 +19,18 @@ En mi experiencia, estas técnicas sirven para un número máximo absoluto de ci
 
 ## Cronograma de juego
 
-Here are the milestones I want to hit in those four hours:
+Estas son los objetivos que quiero alcanzar en estas 4 horas:
 
 
-- 0:00    Intro. Talk about safety, RPGs, and so forth. Begin making characters and doing Q&A.
-- 0:30    Q&A complete. Characters, setting, and premises set.  First encounter begins.
-- 2:15    1st and 2nd scenes done; take 15 minutes to level up and for bio break.
-- 2:30    Final scene begins.
-- 3:45    Final scene done, debrief with the players, thank them for playing.
+- 0:00    Introducción. [Charla sobre seguridad](/img/CruzadaManija.jpg). Juegos de Rol y demás. Comenzar a crear los personajes y hacer P&R.
+- 0:30    P&R completa. Personajes, ambientación y set de premisas. Arranca el primer encuentro.
+- 2:15    1ra y 2da escena terminada; 15 minutos para subir nivel y para hacer un recreito1st and 2nd scenes done; take 15 minutes to level up and for bio break.
+- 2:30    Comienza la segunda escena.
+- 3:45    Escena final terminada, epílogo con los jugadores, agradecer por jugar.
 
-## INTRODUCING DUNGEON WORLD
+## Introduciendo a Dungeon World
 
-Here's how I introduce the game and my philosophy:
-
+Así es como inrtoduzco el juego y mi filosofía:
 
 *"Dungeon World is a game of adventure fantasy. You'll play an adventurer in a dangerous world.  Maybe you fight for glory, or for profit, or for good or evil, or out of loyalty to your friends.  You'll decide that here at the table, and the adventure will emerge around your decisions."*
 
