@@ -56,21 +56,15 @@ Este es paso pre-juego más importante; acá se genera la ambientación, premisa
 
 ### PRINCIPIOS GENERALES DE LAS P&R
 
+Primero, u punto super importante: **Todas las preguntas serán dirigidas a un jugador específico, no a la mesa como un todo**. Preguntar a la mesa algún tema solo invita a que las personas habladoras contribuyan más. ¡Nosotros queremos que nuestras P&R sean equitativas! Asegurense de que las preguntas se distribuyan uniformemente entre todos en la mesa.
 
+El DM dirige las P&R y hace las pregutnas, pero todos el mundo es bienvenido a hacer sus propias preguntas si quieren.
 
-First, a super important point: **All questions are addressed to a specific player, not to the table as a whole**. Asking the table a question just invites the louder people to contribute more. We want our Q&A to be equitable!  Make sure questions are spread evenly around to everyone at the table.
+Algunas clase pueden elegir cosas de una lista en la creación de personajes-- el Guerrero elije un arma, el Bardo elije una área de conocimiento, los magos sus hechizos, etc. ¡Es muy poderoso y estimulante cuando la historia refleja directamente estas elecciones!
 
+Usen multiples pregutnas sobre un mismo tema para ir generando el tono en sus ambientaciones y para crear distintos -- tal vez contradictorios -- objetivos para los personajes. Piensen en **Rashomon**, sobre como distintas personas saben y ven las distintas partes como un todo.
 
-The GM leads Q&A and asks questions, but everyone is welcome to butt in with their own questions if they like.
-
-
-Some classes get to select stuff from a list in character creation-- the Barbarian selects an appetite, the Bard selects an area of expertise, the Wizard selects spells, etc. It’s powerful and engaging when the story directly reflects those choices! So look for opportunities to include those choices in your questioning.
-
-
-Use multiple questions around a single topic to generate nuance in your setting and to create different -- perhaps contradictory -- goals for the PCs.  Think about **Rashomon**, about how different people see and know different parts of a whole.
-
-
-Keep asking questions until your premises are clear and every character has a connection to at least one of them.
+Sigan haciendo preguntas hasta que las premisas sena claras y todos los personajes tengan una conexión con al menos otro de ellos.
 
 
 It’s totally legit to ask questions in a way that lets you nail down a fictional element you want to include in the game.  For instance, if you want to use the Chimera-Hydra (detailed later) as your boss monster you can put it in a question: “Fighter, why do you want to face the vicious Chimera-Hydra?” 
