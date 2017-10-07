@@ -46,15 +46,18 @@ Los jugadores eligen sus personajes de sus libros de jugadores o copias que les 
 
 Me gusta tener un mapa. No lo uso para nada formal, pero es una buena base para la ambientación y una chance para garabatear un poco.
 
-El mapa será una red de tarjetas puestas de manera que todos puedan verlo. A medida que el juego avance, se mencionarán los lugares. Capten cada uno de ellos en una tarjeta y agregenlo al mapa. También, a medida que se agreguen premisas y PNJ', asegurense de marcar dónde estos viven. Agreguen tarjetas de ubicación para esos lugares.
+El mapa será una red de tarjetas puestas de manera que todos puedan verlo. A medida que el juego avance, se mencionarán los lugares. Capten cada uno de ellos en una tarjeta y agregenlo al mapa. También, a medida que se agreguen premisas y PNJ', asegurense de marcar dónde estos viven. Agreguen tarjetas que los ubiquen en esos lugares.
 
-A map made of cards is super flexible and totally helps you earn your *Draw Maps While Leaving Blanks* merit badge. See, if you want to add a location between two other locations while you’re in the middle of play, you can just insert a card in between those two locations. In the game map pictured, we discovered the Burn Zone partway through play, so it was simple to insert it.
+Un mapa hecho de tarjetas es super flexible y les ayudara a ganarse totalmente el reconocimiento de *Dibujo mapas mientras dejo espacios en blanco*. Fijense, si quieren agregar una locacion entre otras dos locaciones en medio del juego, tan solo insertan una tarjeta entre estas últimas. En la foto del mapa, nosotros descubrimos la zona "Burn Zone" a medio camino en la partida, así que tan solo la insetamos y listo.
 
-## Q&A
+## P&R
 
-This is the most important pre-play step; this is where we generate the setting, premises, and bonds, where we weld five strangers into roleplaying Voltron. 
+Este es paso pre-juego más importante; acá se genera la ambientación, premisa y vínculos, donde nosotro uniremos a cinco extraños en la locura del juego de rol. 
 
-### GENERAL PRINCIPLES OF Q&A
+### PRINCIPIOS GENERALES DE LAS P&R
+
+
+
 First, a super important point: **All questions are addressed to a specific player, not to the table as a whole**. Asking the table a question just invites the louder people to contribute more. We want our Q&A to be equitable!  Make sure questions are spread evenly around to everyone at the table.
 
 
