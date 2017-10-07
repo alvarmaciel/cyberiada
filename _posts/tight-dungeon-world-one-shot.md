@@ -1,4 +1,4 @@
-# Planificar la Caza de Dragones: Dirigir ajustadas 4 horas de partidas autoconclusivas de Dungeon World, sin ninguna preparación
+# Planificar la Caza de Dragones: Dirigir ajustadas 4 horas de partidas auto-conclusivas de Dungeon World, sin ninguna preparación
 
 by John Aegard 
 
@@ -7,49 +7,46 @@ by John Aegard
 * TOC
 {:toc}
 
-## INTRODUCTION
+## INTRODUCCIÓN
 
-Mi conocimento literario está basado en relatos del genero de ficción, por eso cuando dirijo una partida autoconclusiva de Dungeon World, quiero que el juego parezca una sencilla y tradicional historia de aventuras fantastica -- una historia en la cual algunos personajes viajen a alguna parte, hagan algo, y en la que todos hayan sido cambiados por el viaje.
+Mi conocimiento literario está basado en relatos del genero de ficción, por eso cuando dirijo una partida auto-conclusiva de Dungeon World, quiero que el juego parezca una sencilla y tradicional historia de aventuras fantástico -- una historia en la cual algunos personajes viajen a alguna parte, hagan algo, y en la que todos hayan sido cambiados por el viaje.
 
 Tampoco quiero tener que hacer ninguna preparación previa. No quiero aparecer con una ambientación o un escenario o una situación. Por un lado, eso implica trabajo, y soy un vago. Por otro lado, no quiero estar contando mi historia, quiero estar para ayudar a contar nuestra historia. Quiero que todos contribuyan con ideas. No creo en que los jugadores tengan que meter a presión sus contribuciones a través de la estrecha apertura de sus personajes. . Quiero que todas las cosas importantes de nuestro juego pasen ahí en la mesa, no en mi cabeza de antemano.
 
-He desarrollado algunas técnicas que me ayudan a acertar en este objetivo de forma bastante consistente. Si quieren dirigir partidas autoconclusivas ajustadas de Dungeon World, ¡esto puede servirles de ayuda!
+He desarrollado algunas técnicas que me ayudan a acertar en este objetivo de forma bastante consistente. Si quieren dirigir partidas auto-conclusivas ajustadas de Dungeon World, ¡esto puede servirles de ayuda!
 
 En mi experiencia, estas técnicas sirven para un número máximo absoluto de cinco personajes jugadores. Con cinco, el tiempo de atención es muy justo, especialmente en las peleas. Creo que el número óptimo es de 3-4 personajes jugadores
 
-## Cronograma de juego
+## CRONOGRAMA DEL JUEGO
 
 Estas son los objetivos que quiero alcanzar en estas 4 horas:
 
 
 - 0:00    Introducción. [Charla sobre seguridad](/img/CruzadaManija.jpg). Juegos de Rol y demás. Comenzar a crear los personajes y hacer P&R.
 - 0:30    P&R completa. Personajes, ambientación y set de premisas. Arranca el primer encuentro.
-- 2:15    1ra y 2da escena terminada; 15 minutos para subir nivel y para hacer un recreito1st and 2nd scenes done; take 15 minutes to level up and for bio break.
+- 2:15    1ra y 2da escena terminada; 15 minutos para subir nivel y para hacer un recreito
 - 2:30    Comienza la segunda escena.
 - 3:45    Escena final terminada, epílogo con los jugadores, agradecer por jugar.
 
-## Introduciendo a Dungeon World
+## INTRODUCIENDO A DUNGEON WORLD
 
-Así es como inrtoduzco el juego y mi filosofía:
+Así es como introduzco el juego y mi filosofía:
 
-*"Dungeon World is a game of adventure fantasy. You'll play an adventurer in a dangerous world.  Maybe you fight for glory, or for profit, or for good or evil, or out of loyalty to your friends.  You'll decide that here at the table, and the adventure will emerge around your decisions."*
+*"Dungeon World es un juego de aventura fantástica. Jugarán como un aventurero en un mundo peligroso. Pueden pelear por la gloria, por ganancias, por el bien o el mal o por lealtad a sus amigos. Eso lo decidirán aquí en la mesa, y la aventura emergera de sus decisiones."*
 
+*"No jugaremos los orígenes de la historia de este grupo. Jugaremos  a través de una de sus aventuras, así que empezaremos como si nos conocieramos todos y estuvieramos viajando hacia el mismo lugar. Vamos a resolver la dinámica de las relaciones y los detalles específicos de nuestro viaje cuando creemos nuestros personajes"*
 
-*"We're not going to play the origin story of this group. We're going to play through one of their adventures, so we start with everyone knowing each other and traveling together to the same destination.  We'll figure out the dynamics of their relationship and the specific details of our journey after we create our characters."* 
+## CREACIÓN DE PERSONAJES
 
-## CHARACTER CREATION
+Los jugadores eligen sus personajes de sus libros de jugadores o copias que les llevemos, como siempre, pero dejando los Vínculos para más tarde. **No hagan una vuelta de presentación de los personajes**. Conoceremos sobre los personajes a medida que sepamos sus relaciones con la historia. Chequeen la lista de confusiones comunes en la creación de personajes en Dungeon World en el  [Apendice D](#appendix-d-common-character-creation-hangups).
 
-Players select their playbooks and fill out everything as usual, saving Bonds for later. **Don't go around the table and have them introduce their characters**. We'll learn about the characters by learning about their relationship to the story.  See my list of common DW character creation confusions in [Appendix D](#appendix-d-common-character-creation-hangups).
-
-## MAKING THE MAP 
+## HACIENDO EL MAPA
 
 ![map](/assets/img/map.jpg)
 
-I like having a map. I don’t use it for anything formal, but it’s a nice grounding of our setting and a chance to doodle. 
+Me gusta tener un mapa. No lo uso para nada formal, pero es una buena base para la ambientación y una chance para garabatear un poco.
 
-
-The map will be a grid of index cards arranged where everyone can see. As the game proceeds, locations will be mentioned. Capture each of them on a card and add them to the map. Also, as NPCs and premises are added, make sure that you figure out where those live. Add location cards for those places.
-
+El mapa será una red de tarjetas puestas de manera que todos puedan verlo. A medida que el juego avance, se mencionarán los lugares. Capten cada uno de ellos en una tarjeta y agregenlo al mapa. También, a medida que se agreguen premisas y PNJ', asegurense de marcar dónde estos viven. Agreguen tarjetas de ubicación para esos lugares.
 
 A map made of cards is super flexible and totally helps you earn your *Draw Maps While Leaving Blanks* merit badge. See, if you want to add a location between two other locations while you’re in the middle of play, you can just insert a card in between those two locations. In the game map pictured, we discovered the Burn Zone partway through play, so it was simple to insert it.
 
