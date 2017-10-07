@@ -66,40 +66,25 @@ Usen multiples pregutnas sobre un mismo tema para ir generando el tono en sus am
 
 Sigan haciendo preguntas hasta que las premisas sena claras y todos los personajes tengan una conexión con al menos otro de ellos.
 
+Es totalmente legítimo hacer preguntas que vayan en un sentido que les permitan anclar algún elemento ficcional que quieran incluir en el juego. POr ejemplo, si quieren usar la Hydra-Quimera (se detalla más adelante) como monstruo jefe, pueden meterla en una pregutna: ¿Guerrero, por qué querés enfrentarte a la sanguinaria Hydra-Quimera?
 
-It’s totally legit to ask questions in a way that lets you nail down a fictional element you want to include in the game.  For instance, if you want to use the Chimera-Hydra (detailed later) as your boss monster you can put it in a question: “Fighter, why do you want to face the vicious Chimera-Hydra?” 
+### PLANTEANDO PREGUNTAS
 
-### SETTING QUESTIONS
+Hagan algunas de estas preguntas a fin de construir una base para la ambientación. Me gusta dirigir estas preguntas a personajes que intrinsecamente sugieren una localización: el druida, el explorador o el ladrón.
 
-Ask one of these questions to get the baseline of the setting down. I like to direct these questions at playbooks that intrinsically suggest a place: the Druid, Ranger, Barbarian, or Thief.
+Estos son unos ejemplos:
 
+>Druida, ¿Cómo es tu tierra hermosa tu tierra natal ?
 
-Here are some examples:
+>Explorador, ¿Qué tierras exploraste? ¿Cómo eran?
 
+>Ladrón, ¿Cómo son tus territorios usuales?
 
->Druid, what is your homeland?  How is it beautiful?
+>Cualquiera, ¿A que lugar has viajado?
 
+Pueden preguntar a otros jugadores algunas de las siguientes preguntas si quieren mejorar la ambientación:
 
-
->Ranger, what lands do you range?  How are they beautiful?
-
-
-
->Barbarian, what is this land you have traveled to?  How is it strange?
-
-
-
->Thief, what are your stomping grounds?
-
-
-
->Anyone, what is this place you have traveled to?
-
-
-You can ask other players some follow-on questions if you want to butter up the setting:
-
-
->Bard, when was the last time you were here? What was the place like then? How has it changed?
+>Bardo, ¿Cuándo fue la última ves que estuviste aquí? ¿Cómo era el lugar entonces? ¿En qué ha cambiado?
 
 
 
