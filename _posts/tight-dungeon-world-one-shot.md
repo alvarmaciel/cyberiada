@@ -125,88 +125,64 @@ Estas son algunas preguntas básicas que establecerán las premisas:
 
 >A cualquiera, ¿Por qué estás viajando a este lugar?
 
+Una vez que establecieron las premisas, es tiempo de enredar al grupo, Usarán sus habilidades de DJ para armar triángulos entre dos personajes y la premisa, a la forma clásica de Apocalipsis World.
 
-Once you've established premises, it's time to tangle the party in them. You'll use your GM skills to draw triangles between two characters and the premise in classic Apocalypse World fashion. 
+Por ejemplo, pueden usar triángulos personaje-premisa-personaje para meter tensión en sus jugadores. Por ejemplo
 
+><DJ> Paladín, ¿Cuál es tu misión?
 
-For example, you can use player-premise-player triangles to place characters in tension. For example:
+><Paladín> Estoy acá para prevenir que el Nigromante complete su conjuro.
 
+><DJ> Ladrón, ¿Qué necesitas robar del Nigromante?
 
-><GM> Paladin, what is your quest?
+><DJ> Mago, ¿Todavía sos amigo del Nigromante? ¿Dónde fue que lo conociste?
 
+><DJ> Guerrero, ¿Cómo reconocerás quien es un siervo del Nigromante?
 
-><Paladin> I'm here to prevent the Necromancer from completing her spell.
+Si quieren un juego menos contencioso, pueden usar triángulos para hacer que los objetivos de los personajes se complenten unos a otros. Por ejemplo:
 
+><DJ> Druida, ¿Qué perturba a estas tierras?
 
-><GM> Thief, what do you need to steal from the Necromancer?
+><Druida> El dragón de pantano Poxtoxalis, que toma muchas presas de caza.
 
+><DJ> Guerrero. ¿Por qué querés matar a Poxtoxalis?
 
-><GM> Wizard, are you still friends with the Necromancer? Where did you first meet her?
+><DJ> Ladrón, ¿Qué le robaste a Poxtoxalis?
 
+><DJ> Explorador, ¿Qué pasó cuando trataste de cazar a Poxtoxalis?
 
-><GM> Fighter, who do you know who is a thrall of the Necromancer?
+**MÁS ALLÁ DE LAS PUERTAS DE LA MUERTE YACEN LAS PREMISAS**: El movimiento *Último Aliénto*, es una caracterísitca única de Dungeon World y en mi experiencia los jugadores realmente responden a ella. Para hacerlo, necesitan un buen trato con la Muerte, así que vamos a mostrar uno acá.
 
+Pónganse su gorra de DJ malo y consideren sus premisas. Piensen en lo que pasará si el personaje no interviene -- justo como si tuvieran que crear un Fatalidad Inminente para un frente de aventura. Si no se les ocurre ninguna idea, tan solo pregunten. "paladin, ¿Por qué están tratando de apoderate del libro de Conjuros Superiores del archimago Doorval? ¿Por qué no podés permitir que lo tenga? ¿Qué es lo que hará con él?"
 
-If you’d like a less contentious game, you can use also use triangles to make characters' objectives complement each other. For example:
+Cuando alguno logra eludir la muerte, que jueguen *último aliento* como siempre, Con un resultado de 7-9, la Muerte ofrece un trato: Si el personaje moribundo negocia, la Fatalidad Inminente se hace realidad, la Muerte lo dejará ir. Consideren tomar los resultaso 2-6 como resultados 7-9. estos tratos siempre son divertidos.
 
+También, mantengan esa Fatalidad Inminente en mente por todas las razones habituales -- como *cuando quieren mostrar pequeños señales de una amenaza o revelar una verdad incómoda*.
 
-><GM> Druid, what troubles this land?
-
-
-><Druid> The swamp dragon Poxtoxalis, who takes too much prey.
-
-
-><GM> Fighter, why do you want to slay Poxtoxalis?
-
-
-><GM> Thief, what have you stolen from Poxtoxalis? 
-
-
-><GM> Ranger, what happened when you tried to hunt Poxtoxalis?
-
-
-**BEYOND DEATH’S DOOR LIES THE PREMISES**: The Last Breath move is a killer feature of Dungeon World and in my experience players really respond to it.  To showcase it, you need a great Death bargain, so let's make one here.
-
-
-Put on your evil GM cap and consider your premises.  Think about what's going to happen if the characters don't intervene -- just like if you were creating an Impending Doom for an adventure front. If you haven't got any ideas, then just ask. "Paladin, why are you trying to seize the Book of Elite Summonings from the archmage Doorva?  Why can't he be allowed to keep it? What is he going to do with it?"
-
-
-When someone does shuffle off, have them roll Last Breath as normal. On the 7-9 result, Death offers a bargain: if the dying character vows to help make the Impending Doom come true, Death will let them go free!  Consider treating the 2-6 result as the 7-9 result. These bargains are hella fun.
-
-
-Also, keep that Impending Doom in mind for all the usual reasons -- like *when you want to rock show signs of an approaching threat or reveal an unwelcome truth*.
-
-### OPPOSITION QUESTIONS
+### PREGUNTAS DE OPOSICIÓN
+Pregunten una o más de las siguientes preguntas para sacar ideas de oposición.
 Ask one or more of the following questions to get ideas about the opposition.
 
+>Bardo o Mago, ¿Por qué necesitaron protección cuando viajaron hacia acá?
 
->Bard or Wizard, why do you need protection when you travel here?
+>Clerigo o Paladín, ¿Qué enemigos de la fé moran por acá?
 
+>Druida, ¿Qué perturba las tierras?
 
+> Guerrero o Barbaro, ¿Qué vinieron a matar? ¿Por qué lo odian o temen?
 
->Cleric or Paladin, what enemies of your faith dwell here?
+>Ladrón, ¿Quién controla este territorio?
 
+>Explorador, ¿Qué bestias cazan por estas zonas?
 
->Druid, who troubles your land?
+>A cualquiera, ¿Quién más en el mundo quiere conseguir <premisa>?
 
-
->Fighter or Barbarian, what have you come here to slay?  Why do you hate or fear them?
-
-
->Thief, who controls this territory?
-
-
->Ranger, what beasts hunt these lands?
+>A cualquiera, ¿Qué está protegiendo <premisa>?
 
 
->Anyone, who else in the world wants to achieve <premise>?
+### ¡MÁS PREGUNTAS!
 
-
->Anyone, what is guarding <premise>?
-
-### MORE QUESTIONS!
-
-Dungeon World warlock Tim Franzke has compiled [a wonderful list of playbook-specific GM hints](https://docs.google.com/document/d/1f2MR7NyN41T9QxsYXUhMJCUvXWWX0VYxp1tAtYiOxWs/edit) that will help you be a fan of the characters.  Check it out for more ideas about how to tailor your DW game to your party.
+El brujo de Dungeon World Tim Franzke ha compilado [una maravillosa lista de consejos específicos para DJ](https://docs.google.com/document/d/1f2MR7NyN41T9QxsYXUhMJCUvXWWX0VYxp1tAtYiOxWs/edit) que los ayudaran a ser unos fanáticos de los personajes. Mírenlos para tener más ideas sobe como tejer su juego de DW a su grupo de jugadores.
 
 ## BONDS
 After you’ve got enough Q&A to establish your scenario, ask each character to write one Bond. If they need a little prompting, here are some questions you can ask that address standard Bonds:
