@@ -88,63 +88,42 @@ Pueden preguntar a otros jugadores algunas de las siguientes preguntas si quiere
 
 
 
->Bard, what does your <bard’s chosen expertise> say is special about this place?
+>¿Clerigo, por qué los peregrinos de <nombre del diós> viajan hasta este lugar? ¿Por qué este lugar es tan especial para el Diós <Nombre del Diós elegido por el clerigo>
+
+>Guerrero, ¿Qué batalla se combatió aquí? ¿Quienes combatieron?
+
+>Ladron, ¿Qué fue lo que robaste de acá en tu pasado?
 
 
->Cleric, why do pilgrims of <cleric’s god> come to this place?  Why is this place special to the god of <cleric’s chosen domain>?
+>Mago, ¿Por qué este lugar es un lugar de poder? Qué tipo de rituales se realizan aquí? ¿Qué ritual llevarías acabo acá?
 
 
+### PREGUNTAS PREMISAS
+Por "premisa", quiero decir "qué es lo que los personajes están haciendo y por qué", La generación de premisas es la parte más crítica de esta metodología.
 
->Fighter, what battle was fought here? Who fought it?
+**CUANTAS PREMISAS** En mi experiencia, tener multiples y distintas premisas en un juego para cuatro, funciona definitivamente. Algunas veces los jugadores pueden enredarse de formas extrañas en la escena final, lo que usualmente es muy satisfactorio. Está bien tener tan solo una sola premisa; hará el juego más sencillo.
 
+**DESTINO FINAL**: Asegurense de que todas las premisas apunten hacia un mismo lugar en el mapa. Ese será el lugar donde ocurrirá la escena final. Hablaré mucho sobre ese lugar, así que le voy a poner nombre y lo llamará el *Destino Final*.
 
+Cuando hagan la primer premisa, el espacio que asignan se convierte en el Destino Final. Si establecen otra premisa, asegurense que referencie al Destino Final.
 
->Thief, what have you stolen from here before?
+Estas son algunas preguntas básicas que establecerán las premisas:
 
+>Paladin, ¿cual es tu misión (quest)?
 
+>Ladrón, ¿Que és lo que viniste a robar?
 
->Wizard, why is this place a place of power?  What kind of rituals are held here?  What ritual would you conduct here?
+>Mago, ¿Qué magia o misterio te trajo hasta acá?
 
+>Clerigo, ¿Qué profecía estás tratando que se cumplir o impedir acá?
 
-### PREMISE QUESTIONS
+>Druida, ¿Que perturba a estas tierras, y cómo pueden ayudar estos aventureros?
 
-By “premise,” I mean “what are the characters doing and why?” Premise generation is the most critical part of this setup. 
+>Barbaro, ¿Qué apetito te trajo aquí?¿Cómo lo vas a sastisfacer?
 
+>Bardo, ¿Qué leyenda te arrastró hasta acá? ¿Que esperás ver mientras estés acá?
 
-**HOW MANY PREMISES?** In my experience, it definitely works to have multiple distinct premises in a four-player game. Sometimes they'll tangle up in weird ways in the final scene, which is usually pretty satisfying. Having just one premise is fine too; it’ll just make the game simpler.
-
-
-**THE FINAL DESTINATION**: Make sure that all premises point towards a single location on your map. That's the location where your final scene will take place. I'm going to talk about that location a bunch, so I'll give it a name and call it the Final Destination.  
-
-
-When you make the first premise, the space you assign it to becomes the Final Destination. If you establish another premise, make sure it references that Final Destination.
-
-
-Here are some basic questions that will establish premise:
-
-
->Paladin, what is your quest?
-
-
->Thief, what have you come here to steal?
-
-
->Wizard, what magic or mystery draws you here?
-
-
->Cleric, what prophecy are you trying to fulfill or thwart here?
-
-
->Druid, what troubles this land, and how can these adventurers help?
-
-
->Barbarian, what appetite has brought you here? How will you satisfy it?
-
-
->Bard, what legend drew you here? What do you hope to see while you are here?
-
-
->Anyone, why are you traveling to this place?
+>A cualquiera, ¿Por qué estás viajando a este lugar?
 
 
 Once you've established premises, it's time to tangle the party in them. You'll use your GM skills to draw triangles between two characters and the premise in classic Apocalypse World fashion. 
