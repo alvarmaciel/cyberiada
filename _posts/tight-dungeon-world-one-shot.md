@@ -249,14 +249,11 @@ Queremos que los jugadores estén realizando estos movimentos, porque son una ex
 enemigos super poderosos de la picadora de puntos de golpe (vean el apendice C para una mejor explicación) [picadora de puntos de golpe](#appendix-c-hit-point-grind-is-death)).
 
 
-Al principio, busquen una opurtunidad para mostrar su poder. Hagan que el resultado de un movimiento de información sea obviamente útil incluso con un 7-9. Usen sus respuestas para revelar tacticas decisivas para el encuentro. Ejemplos de mis últimos juegos: 1) El símbolo sagrado del paladín es la cosa que 
-Early on, find an opportunity to demonstrate their power. Make the result of a knowledge move obviously useful even on a 7-9.  Use your answers to reveal encounter-deciding tactics. Examples from my recent con games: 1) the Paladin's holy symbol is the thing that's stirring up the lake ghouls and if the party hucks it into the water, the undead will dive after it.  2) The jackal-folk of the desert obey their alpha.  Defeating the alpha is the way to become the new alpha.
+Al principio, busquen una oportunidad para mostrar su poder. Hagan que el resultado de un movimiento de información sea obviamente útil incluso con un 7-9. Usen sus respuestas para revelar tacticas decisivas para el encuentro. Ejemplos de mis últimos juegos: 1) El símbolo sagrado del paladín es lo que está provocando a los ghouls del lago y si el grupo la arroja al agua, los no muertos se zambulliran atrás de él. 2) El pueblo-chacal de desierto obedece a su Alpha. Derrotar al Alpha es la forma de cnvertirse en un nuevo Alpha.
 
+Den una importancia similar a los movimentos sociales como *parlamentar*. Sean estrictos con el grupo para hacer que el grupo demuestre su ventaja, pero no teman dejar que una posible ventaja y una buena roleada decidan un encuentro.
 
-Give similar respect to social moves like Parley. Do be a stickler about making the party demonstrate its leverage, but don't be afraid to let plausible leverage and a great roll completely decide an encounter.
-
-
-Also, if it does go to blades, call attention to the fact that Hack and Slash and Volley don’t exactly specify that each roll may only hit one target. Barbarians and Fighters should be jumping into frays and making relish of these pipsqueaks. Rangers should be mowing them down like fresh hay.
+También, si se van a los espadazos, llamen la atención en el hecho de que Saja-Raja (Hack and Slash) y disparar no especifican exactaemten que una tirada solo puede pegar a un objetivo. Barbaros y guerreros deben estar saltando en la refriega y disfrutando con estos pelagatos. Los exploradores deeben estar moviendose entre ellos como heno fresco.
 
 ## SCENE TWO: THE BRANCH
 
