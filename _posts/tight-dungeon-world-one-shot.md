@@ -184,90 +184,72 @@ Ask one or more of the following questions to get ideas about the opposition.
 
 El brujo de Dungeon World Tim Franzke ha compilado [una maravillosa lista de consejos específicos para DJ](https://docs.google.com/document/d/1f2MR7NyN41T9QxsYXUhMJCUvXWWX0VYxp1tAtYiOxWs/edit) que los ayudaran a ser unos fanáticos de los personajes. Mírenlos para tener más ideas sobe como tejer su juego de DW a su grupo de jugadores.
 
-## BONDS
-After you’ve got enough Q&A to establish your scenario, ask each character to write one Bond. If they need a little prompting, here are some questions you can ask that address standard Bonds:
+## VINCULOS
+Una vez que tengan bastantes P&R para establecer el escenario, pidan a cada personaje que escriba un vínculo. Si necesitan alguna ayuda, acá hay algunas preguntas que pueden hacer y que apuntan a vínculos estándars:
+
+>Barbaro, ¿Quién de aquí casi te mata? ¿Cómo?
+
+>Bardo, ¿Con quién de aquí has viajado antes?
+
+>Clerigo, ¿Quién, de los que están acá, crees que es una persona buena y fiel? ¿Por qué?
+
+>Druida, ¿Con quién de acá has compartido un rito secreto de la tierra? ¿Por qué confias en el/ella?
+
+>Guerrero, ¿A quíen juraste proteger?
+
+>Paladín, ¿Quién de aquí a estado con vos en batalla?
+
+>Explorador, ¿A quién has guiado antes?
+
+>Ladron, ¿Quién de aquí sabe cosas incriminantes sobre vos? <Al otro jugador>, ¿qué es lo que sabes?
+
+> Mago, ¿Quién de aquí, tendrá un papel relevante en los eventos que se avecinan?
+
+Y acá hay algunas preguntas que pueden crear vínculos alternativos:
+
+>Barbaro, ¿Quíen de aquí podría andar bien en tu tierra natal? ¿Cómo lo invitarías a ir con vos?
+
+>Bardo, ¿De quién has oido hablar antes? ¿Qué es lo que oiste?
+
+>Clerigo, ¿A quién te negaste a sanar? ¿Por qué?
+
+>Mago, ¿Con quién estás experimentando? ¿Qué es lo que le hiciste?
 
 
->Barbarian, who here nearly got you killed?  How?
+### UN MOVIMIENTO PARA ESTABLECER MÁS VÍNCULOS DURANTE EL JUEGO
+
+**Cuando ayudas o interferís**, tiren +vinculo como se hace normalmente. Si no tienen vínculos con el destinatario, tirá +nada. Después de que tu beneficiario hace su movimento, escriban un vínculo con él/ella inpirados en lo que haya ocurrido en el movimento.
 
 
->Bard, who here have you traveled with before?
+
+## ESCENA UNO: PONIENDOSE EN MARCHA.
+
+Muy bien, tenemos los personajes, la ambientación, y algunas premisas. ¡Es momento de dados! Este es mi guión para arrancar con todo:
+
+*"Dungeon World es una conversación entre todos nosotros. Ocasionalmente algo ocurre en la conversación que desencadena la reglas y a los dados. Al principio, yo voy a mencionar estos movimietos desencadenados por las reglas, pero en la medida que se familiaricen con las reglas, sientanse libres de mencionarlos ustedes"*
+
+Comiencen con el grupo en un lugar que estará alejada una o dos tarjetas (del mapa) del destino final. Cuando se alce la cortina, Estarán frente a frente con algún mosntruo. Comiencen en el instante en el que el grupo de encuentra con los monstruos. **No arranquen con las hostilidades inmediatamente**. Den a los jugadores una chance de cruzar la pelea con movimientos sociales o de conocimiento -- más a continuación.
+
+Describan los alredeores y a los monstruos y pregunten, "¿Qué hacen?"
+
+### LOS MONSTRUOS
+Asegurense de saber porqué los mosntruos están ahí --debe ser relevante a algo que haya sido revelado en las P&R. Pueden ser peones del Jefe Final, enviados a pelear con el grupo, o tal vez, están tras los mismos objetivos que el grupo.
+
+Si los jugadores han contribuido con ideas para la oposición, entonces usen definitivamente esas ideas para crear mosntruos.
+
+Mi práctica es poner a la gente en el primer encuentro con una turba de 6-10 medio amezantes pequeños seres, 4HP, 0 Armadura, d6 de daño, con un movimiento de ataque que los haga un poco interesantes y un movimiento de movilidad que prevenga que el campo de batalla se convierta en algo muy estático.
+
+Mi monstruo de introducción es algo con un movimento que atrape -- una red, un látigo, una lengua prensible, etc. He usado a sapos cultistas con largas lenguas roba cosas, arañas cultistas con lanza redes, Anubitas cabeza de chacal con látigos. Usualmente le doy a alguno de ellos alas, saltos largos, enterramiento o nado.
+
+**No usen los viejos, aburridos y familiares mosntruso, como orcos, goblins, kobolds, etc, para el primer encuentro**. Queremos que el grupo tenga curiosidad sobre las cosas con las que están pelando, que están preguntando y disparando movimentos de busqueda de información, como *exhibir conocimientos, discernir la realidad y conocimiento de bardo*
+
+### ENFATIZAR MOVIMIENTOS DE BUSQUEDA DE INFORMACIÓN
+
+Queremos que los jugadores estén realizando estos movimentos, porque son una expresión de curiosidad, y cada uno demuestra enganche,y queremos recompensar y responder a ese enganche. Cada movimento de conocimiento es una chance para las personas en la mesa de revelar la trama o la ambientación. Además  --¡Importante! -- los movimentos de información o conocimiento pueden ser usados para cortocircuitar encuentros y estos son 
+enemigos super poderosos de la picadora de puntos de golpe (vean el apendice C para una mejor explicación) [picadora de puntos de golpe](#appendix-c-hit-point-grind-is-death)).
 
 
->Cleric, who here do you trust as a good and faithful person?  Why?
-
-
->Druid, who here have you shared a secret rite of the land with?  Why did you trust them?
-
-
->Fighter, who here have you sworn to protect?
-
-
->Paladin, who here has stood beside you in battle?
-
-
->Ranger, who here have you guided before?
-
-
->Thief, who here knows incriminating details about you? <Other Player>, what do you know?
-
-
->Wizard, who here will play an important role in the events to come?
-
-
-And here are some questions that could create alternate Bonds:
-
-
->Barbarian, who here would fit in in your homeland?  Who would you invite to come home with you?
-
-
->Bard, who here have you heard of before? What did you hear about them?
-
-
->Cleric, who did you once refuse to heal?  Why?
-
-
->Wizard, who here are you experimenting on? What have you done to them?
-
-### A MOVE TO ESTABLISH MORE BONDS DURING PLAY
-
-**When you Aid or Interfere**, roll +Bond like you normally would. If you have no Bond with the recipient, roll +nothing. After your beneficiary makes their move, write a Bond with them inspired by the outcome of the move.﻿
-
-
-## SCENE ONE: GETTING UNDERWAY.
-
-Okay, we’ve got characters, a setting, and some premises. It’s time to roll dice! Here's my script for kicking that off:
-
-
-*"Dungeon World is a conversation between all of us.  Occasionally something will happen in that conversation that'll trigger the rules and some dice rolling. At first, I'll call out those triggered moves, but as you become more familiar with the rules, feel free to call them out yourselves."*
-
-
-Start the party in a location that is one or two cards distant from the final location. When the curtain rises, they're face-to-face with some monsters.  Start at the instant where the party first encounters the monsters. **Do not start with immediate hostilities**. Give the players a chance to short-circuit a fight with a social or knowledge move -- more on that below.
-
-
-Describe the surroundings and the monsters and then ask, “what do you do?”
-
-### THE MONSTERS
-Make sure you know why the monsters are there--it should be relevant  to something revealed in Q&A. Perhaps they are pawns of the big boss sent to fight the party, or perhaps they are competing for the same goals as the party.
-
-
-If people have contributed ideas about the opposition, then definitely use those ideas to create these monsters. 
-
-
-My practice is to staff the first encounter with a mob of 6-10 mildly threatening little guys, 4HP, Armor 0, d6 damage, with an attack move that makes them a bit interesting and a mobility move that'll prevent the battlefield from becoming too static.
-
-
-My go-to intro monster is something with an entangling move -- a net, a whip, a prehensile tongue, etc.  I've used toad cultists with long item-stealing toad tongues, spider cultists with spinnerets , jackal-headed Anubites with whips.  I'll usually give some of them wings or jumping or burrowing or swimming too. 
-
-
-**Do  not use familiar boring old monsters like orcs, goblins, kobolds,etc in the first encounter**.  You want the party to be curious about the things they're fighting, to be asking questions and triggering knowledge-gathering moves like Spout, Discern, and Bardic Lore.
-
-
-### EMPHASIZE INFORMATION-GATHERING MOVES
-
-You want the players to be triggering these moves, because each is an expression of curiosity, and each one demonstrates engagement, and you want to reward and respond to engagement. Each knowledge move is a chance for people at the table to reveal plot or setting. And -- importantly!-- knowledge moves can be used to short-circuit encounters and are thus supremely powerful enemies of hit point grind (see the Appendix C for an explanation of [hit point grind](#appendix-c-hit-point-grind-is-death)).
-
-
+Al principio, busquen una opurtunidad para mostrar su poder. Hagan que el resultado de un movimiento de información sea obviamente útil incluso con un 7-9. Usen sus respuestas para revelar tacticas decisivas para el encuentro. Ejemplos de mis últimos juegos: 1) El símbolo sagrado del paladín es la cosa que 
 Early on, find an opportunity to demonstrate their power. Make the result of a knowledge move obviously useful even on a 7-9.  Use your answers to reveal encounter-deciding tactics. Examples from my recent con games: 1) the Paladin's holy symbol is the thing that's stirring up the lake ghouls and if the party hucks it into the water, the undead will dive after it.  2) The jackal-folk of the desert obey their alpha.  Defeating the alpha is the way to become the new alpha.
 
 
