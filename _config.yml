@@ -11,6 +11,7 @@ twitter_username: amaciel
 github_username:  alvarmaciel
 gplus_username:  alvarmaciel
 disqus_username: cyberiada-1
+linkedin_public_url: loremipsum # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url 
 
 # Build settings
 markdown: kramdown
