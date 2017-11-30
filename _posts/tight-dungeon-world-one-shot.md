@@ -255,45 +255,38 @@ Den una importancia similar a los movimentos sociales como *parlamentar*. Sean e
 
 También, si se van a los espadazos, llamen la atención en el hecho de que Saja-Raja (Hack and Slash) y disparar no especifican exactaemten que una tirada solo puede pegar a un objetivo. Barbaros y guerreros deben estar saltando en la refriega y disfrutando con estos pelagatos. Los exploradores deeben estar moviendose entre ellos como heno fresco.
 
-## SCENE TWO: THE BRANCH
+## ESCENA DOS: RAMIFICACIÓN
 
-Okay, the first encounter is done. Now we're going to figure out how the party is going to get to the final location. Put three location cards in a row between their current location and the final location. Let these locations be inspired by anything from the Q&A - the Ranger may have mentioned that she's traveled some mountains, or the Thief may mention a secret entrance via the sewers.
+Ok, terminó el primer encuentro, Ahora estamos listos para ver como el grupo hará para llegar a su destino final. Pongan en columna tres tarjetas de ubicación entre el lugar en el que están y su destino final. Dejen que estos lugares sean inspirados por cualquier cosa que haya salido en las P&R - la exploradora por ahí mencinó que viajó por algunas montañas, o el ladrón tal vez comentó algo sobre un pasaje secreto a través de los pantanos.
 
+Diganles que pueden viajar al destino final por alguna de esas nuevos lugares.
 
-Tell them that they can travel to the final location via any of those new locations.
+Una vez que hayan elegido, golpeen con otro encuentro presentando un mosntruo inusaul esto es adecuado para demostrar el poder del lugar ficticio en el que están. Mi favorito para usar acá son los mosntruos que petrifican, como el basilisco o la medusa. Estos son enemigos famosos que no se los combate de forma sencilla, se necesita ser más habil o planear el combate para engañarlos.
 
+También, la petrificación parcial es algo divertido de hacer a algún personaje; suelo comenzar con ojos, nariz y pelo. Es incluso más divertio cuando tienen a un auto sacrificado Paladin en el grupo que está ansioso de mostrar su rectitud moral con una imposiciṕon de manos, o un brujo que quiere improvisar un ritual anti petrificación.
 
-Once they make their choice, hit them with an encounter featuring an unusual monster that's suited to demonstrate the power of fictional positioning. My favorite here is to use a petrification monster like a basilisk or a medusa.  These are notorious foes that can't be simply fought, they need to be outwitted and outmaneuvered.
+Pueden hacer otras cosas en la escena 2. Consideren golpearlos con algún movimiento de Localización apropiado para el camino que eligieron -- que se pierdena en el bosque, exponganlos a los elementos en le desierto, y demás. Tambien pueden **mostrar una oportunidad** para darles algún aliado o alguna ayuda para la batalla final -- Por ahí un campamento rebelde lleno de soldados que puedan reclutar, un mago itinerante que sabe cosas útiles, un secuaz descontento con algún mapa, contraseña, etc.
 
+## INTERLUDIO: SUBIR NIVEL. IR AL BAÑO
 
-Also, partial petrification is a fun thing to do to a player character; I start with eyes, nose, and hair.  It's even more fun when you've got a self-sacrificing Paladin in the party who's eager to show off their moral rectitude with a Lay On Hands, or a Wizard who wants to improvise an anti-petrification ritual.
+Subir de nivel es divertido y sencillo en DW. Algunos de los movimentos avanzados son geniales -- chequeen Maestría Elemental del Druida, Altamente Lógico del Mago y Tutela Divina, del paladín. Altamente Lógico convierte al Mago en un genio táctico. Tutela Divina hace la Paladín indestructible. Maestría Elemental es de los poderes más grosos que encontré en el libro.
 
+La mayoría de los jugadores pueden subir de nivel en 10 minutos más o menos --  por ahí un poco más para los conjuradores o personas que hacen movimientos multiclase.
 
-You can do other things in Scene 2 as well. Consider hitting them with a Location move appropriate to the path they chose -- get them lost in the woods, expose them to the elements in the desert, and so forth.  You could also **show an opportunity** to give them some allies or some help in the final battle -- perhaps a rebel camp full of soldiers they can recruit, an itinerant wizard who knows useful things, a disgruntled henchmen with a map or a password, etc.
+## ESCENA TRES: EL FINAL
 
-## INTERLUDE: LEVEL UP. GO TO THE RESTROOM.
+Ok,llegamos, ¡este es el gran final! Generalmente les tiro un Monstruo Jefe bien grande al grupo, uno que esté inspirado en las P&R.
 
-Levelling up is fun and simple in DW. Some of the advanced moves are bananas -- check out the Druid's Elemental Mastery, the Paladin's Bloody Aegis, and the Wizard's Logical.  Logical turns Wizard into tactical geniuses. Bloody Aegis makes Paladins indestructible. Elemental Mastery is the gnarliest power I’ve found in the book.
-
-
-Most players can level up in ten or so minutes -- maybe a bit more for the spellcasters or for people who take multiclass moves.
-
-## SCENE THREE: THE FINALE
-
-Okay, this is it.  The big finale!  Generally I throw a big boss monster at them, one that is inspired by the Q&A.
-
-
-My fave final boss monster so far is something I call the Chimera-Hydra, a six-headed regenerating beastie. I like it because it’s a single big epic monster that fights like six monsters and it’s got lots of surface to interact with: you can be on top of it, underneath it, clinging to any of six necks, in front of any of six heads, caught up in any of six jaws, etc. It also rewards daring: its heads are formidable but its body is soft.
-
-### Chimera-Hydra 
-#### huge magical construct
+Mi monstruo jefe final favorito hasta ahora es algo que llamo Hydra-Quimera, una bestia regenerativa de seis cabezas. Me gusta porque es un monstruo épico único y grande que pelea como seis monstruos y tiene mucha superficie para interactuar con él: Pueden estar encima de ella, debajo, sobre alguno de sus seis cuellos, frente a alguna de las seis cabezas, atrapado en alguna de sus seis mandíbulas, etc. Y recompesan la osadía: sus cabezas son formidables, pero su cuerpo es blando.
+### Hydra-Quimera
+#### gran construcción mágica
 
 
-- **Goat Heads (2)**: b[2d8] damage, 10 hit points each, 3 armor, forceful
-  - Knock them flying
+- **Cabezas de cabra (2)**: b[2d8] daño, 10 puntos de golpe cada una, 3 amadura, fuerte
+  - Golpea a los voladores
 
 
-- **Lion Heads (2)**: b[2d12] damage, 10 hits points each, 2 armor, messy
+- **Cabezas de León (2)**: b[2d12] daño, 10 hits points each, 2 armor, messy
   - Stun them with a roar
   - Shake and break them
 
