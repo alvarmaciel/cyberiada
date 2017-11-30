@@ -255,7 +255,7 @@ Den una importancia similar a los movimentos sociales como *parlamentar*. Sean e
 
 También, si se van a los espadazos, llamen la atención en el hecho de que Saja-Raja (Hack and Slash) y disparar no especifican exactaemten que una tirada solo puede pegar a un objetivo. Barbaros y guerreros deben estar saltando en la refriega y disfrutando con estos pelagatos. Los exploradores deeben estar moviendose entre ellos como heno fresco.
 
-## ESCENA DOS: RAMIFICACIÓN
+## ESCENA DOS: LA RAMIFICACIÓN
 
 Ok, terminó el primer encuentro, Ahora estamos listos para ver como el grupo hará para llegar a su destino final. Pongan en columna tres tarjetas de ubicación entre el lugar en el que están y su destino final. Dejen que estos lugares sean inspirados por cualquier cosa que haya salido en las P&R - la exploradora por ahí mencinó que viajó por algunas montañas, o el ladrón tal vez comentó algo sobre un pasaje secreto a través de los pantanos.
 
@@ -267,7 +267,7 @@ También, la petrificación parcial es algo divertido de hacer a algún personaj
 
 Pueden hacer otras cosas en la escena 2. Consideren golpearlos con algún movimiento de Localización apropiado para el camino que eligieron -- que se pierdena en el bosque, exponganlos a los elementos en le desierto, y demás. Tambien pueden **mostrar una oportunidad** para darles algún aliado o alguna ayuda para la batalla final -- Por ahí un campamento rebelde lleno de soldados que puedan reclutar, un mago itinerante que sabe cosas útiles, un secuaz descontento con algún mapa, contraseña, etc.
 
-## INTERLUDIO: SUBIR NIVEL. IR AL BAÑO
+## INTERLUDIO: SUBIR DE NIVEL... IR AL BAÑO
 
 Subir de nivel es divertido y sencillo en DW. Algunos de los movimentos avanzados son geniales -- chequeen Maestría Elemental del Druida, Altamente Lógico del Mago y Tutela Divina, del paladín. Altamente Lógico convierte al Mago en un genio táctico. Tutela Divina hace la Paladín indestructible. Maestría Elemental es de los poderes más grosos que encontré en el libro.
 
@@ -282,47 +282,42 @@ Mi monstruo jefe final favorito hasta ahora es algo que llamo Hydra-Quimera, una
 #### gran construcción mágica
 
 
-- **Cabezas de cabra (2)**: b[2d8] daño, 10 puntos de golpe cada una, 3 amadura, fuerte
+- **Cabezas de cabra (2)**: daño m[2d8], 10 HP cada una, amadura 3, fuerte
   - Golpea a los voladores
 
 
-- **Cabezas de León (2)**: b[2d12] daño, 10 hits points each, 2 armor, messy
-  - Stun them with a roar
-  - Shake and break them
+- **Cabezas de León (2)**: daño m[2d12], 10 HP cada una, armadura 2 , desorganizada
+  - Aturdir con el rugido
+  - Sacudir y quebrar
 
 
-- **Flame Serpent Heads (2)**: b[2d10] damage, 10 hit points each, 2 armor, reach
-  * Belch a cone of fire
-  * Strike perfectly in the dark
-  * Inject venom that boils blood
+- **Cabezas de serpiente flamígera (2)**: daño m[2d10], 10 HP cada una, armadura 2, medio alcance
+  * Eructa un cono de fuego
+  * Acierta perfectamente en la oscuridad
+  * Inyecta veneno que hierve la sangre
 
 
-- **Body**: b[2d8] damage, 16 hit points, 1 armor
-  * Regenerate a head
-  * Trample underfoot
-  * Fly clumsily
+- **Cuerpo**: m[2d8] damage, 16 HP, armadura 1
+  * Regenera una cabeza
+  * Pisotea todo bajo sus pies
+  * Vuela torpemente
 
 
-Whatever monster you use, put some interesting terrain in the encounter area.  Elevation is always a winner, especially elevation that doesn’t hamper the boss monster’s attacks. Set up water to drown in and fire to burn in. A theater / coliseum / bleacher full of spectators is a good add too; nothing gets under a gladiator's skin like a taunt from a drunk man-frog merchant. Maybe the spectators throw sour tomatoes or bricks, doing 1d4 / blinding damage
+Sea cual sea el mostruo que usen, pongan un terreno interesante en el área del encuentro. La elevación siempre garpa, especialmente las elevaciones que no obstaculizan los atques del monstruo jefe. incluyan agua para hundirse y fuego para encenderse. Un teatro/coliseo/tribunas llenas de espectadores es un buen agregado también; Nada se mete tanto bajo la piel de un gladadior que las burlas de un borracho comerciante hombre-rana. Tal vez los espectadores puedan tirar tomates podridos y ladrillos, haciendo 1d4 de daño o daño cegador.
 
+Incluso mientras la gran batalla se está librando, es probable que hay algo de las premisas que abordar -- cosas para robar, prinecesas que rescatar, rituales que conducir, etc. Dirije los ojos de los personajes hacia ellas. Usen *mostrar oportunidades* para que piensen en lo que desean. Tientenlos para que pongan sus intereses sobre los del grupo
 
-Even while the big battle is raging, there's probably premise stuff to be addressed -- items to be stolen, princes to be rescued, rituals to conduct, etc.  Draw the characters' eyes to these.  Use *show them opportunities* to get them thinking about the stuff they desire.  Tempt them to place their interests over those of the party.
+Juegen lo suficeintemente fuerte como para que vayan a visitar a La Muerte
 
+Entonces, cuando el lucha acabé, el grupo tendrá que resolver los enredos de sus premisas. En mi experiencia, esta es la parte de mayor energía del juego, especialmente si hay contiendas. No es raro que haya PvP. Sientense y disfruten de lo que han forjado.
 
-Play hard enough so they'll go visit Death.
+## EPÍLOGO
 
+Bien, es el fin del juego y ¡las cosas se resolvieron! Circulen por la mesa, terminando en el personaje al que más cosas dramáticas le han pasado. Pregunten a cada jugador por turnos que narren un breve epílogo describiendo su vida a partir de la aventura. Me encantan los epílogos; son buenas oportunidades para que los jugadores se suelten un poco solos, bajen sus defensas, y cuenten una historia con la que el DJ no puede meterse.
 
-Then, once the fight's over, the party will have to resolve the tangles in their premises.  In my experience, this is the highest-energy part of the game, especially if there's contention.  PvP is not unknown to me here.  Sit back and enjoy what you have wrought.
+Tambien tienen que describir epílogos para cualquer de sus PNJ's favoritso o localizaciones.
 
-## EPILOGUE
-
-Okay, it's the end of the game and things have resolved!  Go around the table, ending on the character who had the most dramatic stuff happen to them. Ask each player in turn to narrate a short epilogue describing their life in the wake of the adventure.  I love epilogues; they're a nice opportunity for players to solo a bit, let down their defenses, and just say pure story that the GM can't mess with.  
-
-
-Also, you should describe epilogues for any of your favorite NPCs or locations as well.
-
-
-That's it! Thank everyone for playing and maybe debrief a bit if there's time.
+¡Eso es todo! Gracias a todos por jugar y si hay tiempo, tal vez pueden hacer un pequeño feedback para el próximo encuentro.
 
 # APPENDICES: VARIOUS REMARKS ON DUNGEON WORLD PLAY
 
