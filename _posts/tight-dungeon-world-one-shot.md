@@ -319,45 +319,35 @@ Tambien tienen que describir epílogos para cualquer de sus PNJ's favoritso o lo
 
 ¡Eso es todo! Gracias a todos por jugar y si hay tiempo, tal vez pueden hacer un pequeño feedback para el próximo encuentro.
 
-# APPENDICES: VARIOUS REMARKS ON DUNGEON WORLD PLAY
+# APENDICES: VARIAS OBSERVACIONES SOBRE DUNGEON WORLD
 
-## APPENDIX A: DEFY DANGER ADVICE
+## APPENDICE A: CONSEJO SOBRE DESAFIAR EL PELIGRO
 
-The 7-9 result on Defy Danger can be very tough to adjudicate. Here's some guidance for how to make those results fun.
+El resultado 7-9 de Desafiar el Peligro puede ser muy difícil de decidir. Acá tienen una guía para hacer de estos resultados algo entretenido.
 
+**MIRA TUS MOVIMIENTOS**: Para crear un peor resultado, miren a Desafir así:
 
-**LOOK TO YOUR MOVES**: To make a worse outcome, look at Defy like this:
++10: PJ desafía el peligro
+7-9: PJ desafía el peligro y DJ hace un movimiento
+-6: DJ hace un movimiento
 
+Supongamos que Omar, el ladron está escapando del guardia de la ciudad y tira un 7-9 con el Peligro de ser atrapado. Como DJ, Le voy a dar a Omar su escape. Pero también puedo:
 
-10+: PC defies danger
-7-9: PC defies danger + GM makes a move.
-6- : GM makes a move
+* Usar un movimiento de monstruo, peligro o locación -- Ompar cae accidentalmente en un concilio de Necrodancers y es alcanzado por la maldición del movimiento descarado.
+* Hacer daño -- Omar se esguinza el tobillo mientras corre.
+* Bajarle los recursos -- Omar tira algo de su equipo mientras escapa.
+* Ubicarlo en algún lugar -- Omar escapa de la persecusión... Pero cae en el pozo de un ogro.
+* Separar el grupo -- ¡Omar se pierde!
 
+**LOS PEORES RESULTADOS PUEDEN SUAVIZARCE CON HORRIBLES ELECCIONES** Pueden convertir una pifia en un trato difícil, explicando cual sería el resultado de la tirada y dejando que el jugador elija entre caer en el peligro que quería evitar o sufrir las consecuencias de la tirada. Creo que esto suaviza, de alguna manera el movimiento; estarían colaborando con el destino del jugador en lugar de imponerselo.
 
-Say Omar the Thief is running from the city guard and rolls a 7-9 with the Danger being that he's caught.  As the GM, I'm going to grant Omar his escape.  But I can also:
+**PONER A ALGUIEN MÁS EN LA MIRA.** ¿Hay algún otro personaje en una posición comprometida? ¡Puede recaer en él/ella el aspecto negativo del 7-9?
 
+Supngamos que Omar saltó sobre un mamut peludo enloquecido y está tratando de calmarlo mientras Sanguinus el Paladín combate contra un cocodrilo cercano. En la pero resolución, Omar calma el maut, pero no antes de que se haya caido sobre Sanguinus.
 
-* Use a monster, danger, or location move -- Omar accidentally runs into a vogue of Necrodancers and gets hit by their Fresh Curse move.
-* Deal damage -- Omar sprains his ankle while running. 
-* Use up their resources -- Omar drops some of his loot while getting away.
-* Put them in a spot -- Omar escapes pursuit....but stumbles into the ogre pit.
-* Separate them -- Omar gets lost!
+Digamos que Omar está arrastrandose po el distrito en cuarentena, robando en las casas de los muertos. El Peligro es que se agarre la plaga. Con un 7-9, Omar no se contagia... pero deviene un portador, y sus amigos del grupo se la pescan un tiempo después.
 
-
-**WORSE OUTCOMES CAN BE SOFTENED INTO UGLY CHOICES** You can turn a worse outcome into a hard bargain by explaining the worse outcome and asking the player to choose between eating the danger or suffering the worse outcome.  I think this softens the move somewhat; you're collaborating with the player on their fate rather than just imposing it.
-
-
-**PUT SOMEONE ELSE IN THE CROSSHAIRS.**  Is another character in a questionable position?  Can they suffer the downside of the 7-9?  
-
-
-Say Omar has leapt aboard a panicking wooly mammoth and is trying to calm it while Sanguinus the Paladin battles the crocodile folk nearby.  The Danger for Omar is that the mammoth will continue rampaging.  The Worse Outcome version is that Omar calms the mammoth, but not before it has bowled over Sanguinus.
-
-
-Say Omar is creeping through the quarantine districts, looting the houses of the dead. The Danger is that he gets the plague. On a 7-9, Omar doesn't get sick ... but he becomes a carrier, and his friend Bug picks it up some time later.
-
-
-Say Omar is reading the Canticle of Sog-Yothoth aloud to close the Murder Gate (danger: the gate stays open) while Xeno the Wizard casts their Mirror Image spell to distract some cultists. The Murder Gate is closed but the flux of freaky energy results in Xeno's mirror image becoming a permanent, independent, reverse-alignment version of Xeno.
-
+Ahora Omar está leyendo el Cantico de Sog-Yothot para tratar de cerrar la Puerta Asesina (peligro: que la puerta quede abierta) Mienstras Xeno, el Mgo lanza su hechizo Clones Espejo para distrar a algunos cultistas. La Puerta Asesina se está cerrando, pero un flujo de energía hace que una de los clones se convierta en permanente , independiente y con alineación inversa a al versión de Xeno.
 
 Sometimes I will totally cheat at this and cut away to another character just before a Defy Danger move is rolled so that the situation can develop some more facets before we start messing it up with mixed successes.
 
