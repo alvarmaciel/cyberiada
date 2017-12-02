@@ -349,79 +349,68 @@ Digamos que Omar está arrastrandose po el distrito en cuarentena, robando en la
 
 Ahora Omar está leyendo el Cantico de Sog-Yothot para tratar de cerrar la Puerta Asesina (peligro: que la puerta quede abierta) Mienstras Xeno, el Mgo lanza su hechizo Clones Espejo para distrar a algunos cultistas. La Puerta Asesina se está cerrando, pero un flujo de energía hace que una de los clones se convierta en permanente , independiente y con alineación inversa a al versión de Xeno.
 
-Sometimes I will totally cheat at this and cut away to another character just before a Defy Danger move is rolled so that the situation can develop some more facets before we start messing it up with mixed successes.
+Aveces voy a trampear en esto e ir directamente hacia otro personaje justo antes de la tirada del movimiento Desafiar el Peligro así la situación puede desarrollar algunas facetas más antes de empezar a complicarnos con los exitos parciales.
+
+**CONSIDEREN EL PELIGRO IMPLICADO A TODAS LAS ESCALAS TEMPORALES**: Usualmente categorizo el peligro como, peligro inmediato, escenas peligrosas o campañas peligrosas. Los agrupo preguntando cuando el dolor del peligro bajará. Si va a bajar enseguida, es un peligro inmediato. Si va a bajar hacia el final de la escena, es una escena peligrosa, Si bajará tiempo después, es un peligro de campaña..
+
+Por ejemplo, digamos que Omar el Ladrón está por saltar hacia un techo (peligro inmediato) tratando de escapar de la guardia (escena peligrosa) mientras trata de permanecer anónimo (peligro de campaña). Estos son los tres peligros en una simple acción. Uno de estos debe ser declarado como Desafiar el Peligro.
+
+Digamos que el Peligro es que puede carse. Las complicaciones del exito parcial puede ser hace el salto y escapa, pero es claramente identificado por sus perseguidores y pierde el anonimato. Otra posibilidad es que hace el salto pero sus perseguidores también, así que tiene que pensar alguna otra táctica para eludir a los perseguidores.
+
+Alternativamente, digamos que el peligro es ser atrapado. Con un exito parcial, por ahí elude a los perseguidores -- cayendose y torciendose el tobillo mientras los perseguidores se conctran en el techo. O puede escapar, pero perder su anonimato.
 
 
-**CONSIDER IMPLIED DANGERS AT EVERY TIME SCALE**:  I usually categorize dangers as immediate dangers, scene dangers, or campaign dangers.  I group them by asking when the pain from the danger will come down.  If it will come down right away, it's an immediate danger.  If it will come down by the end of the scene, it's a scene danger.  If it will come down sometime later, it's a campaign danger.
+## APENDICE B: MI PREGUNTA FAVORITA DE TODOS LOS TIEMPOS
 
+Algunas veces algún PJ está completamente enganchado. Va aterinar en un lugar terrible, donde la muerte parece inevitable. Cuando esto ocurra ¡No lo mates!, en lugar de eso, hacé Mi Pregunta Favorita de Todos los Tiempos
 
-For example, let's say that Omar the Thief is jumping from rooftop to rooftop (immediate danger) trying to escape the guard (scene danger) while also remaining anonymous (campaign danger).  That's three dangers in the single action.  One of these must be the stated Danger of the Defy Danger.
+>"¿Cómo diablos sobrevives a ESTO?
 
+Cada vez que he usado esta pregunta, ha habido grnades exitos. Para demostrarlo, esta es una de mis historias favoritas:
 
-Let's say that the Danger is that he falls. The complications of the mixed success can be that he makes the leap and escapes, but he is clearly identified by his pursuers and his anonymity is toast.  Another possibility is that he makes the leaps safely but so do his pursuers and so he has to figure out another tactic to elude them.
+Un PJ elfo a armado una poderosa bomba mágiia en el sótanos del la Torre de la Hechicería. Mientras explora la Torre, es acorralado por unos Guerreros del Sueño. Sin escapatoria posible, detona remotamente la bomba, ya habíamos establecido, que tiraría abajo definitivamente la torre.n.
 
+"Okey, ¿Cómo diablos sobrevives a esto?" Pregunto.
 
-Alternatively, say the Danger is that he's caught.  On a mixed success, he might elude pursuit -- by falling and spraining his ankle while the pursuit concentrates on the rooftops.  Or he will escape, but lose his anonymity.﻿
+"Reencarno", me dice
 
-## APPENDIX B: MY FAVOURITE QUESTION OF ALL TIME
-Sometimes a PC will be completely hooped. They'll wind up in a terrible spot where death looks inevitable. When that happens, don't just murder them! Instead, deploy My Favourite Question Of All Time:
+Ahora bien este Mago-Elfo era un vejo racista anti-humano. Y vi la oportunidad de imponer algun tipo de la antigua y bien ponderada ironía moralizante de La Dimensión Desconosida en su efo trasero. "Entonces Desafiá el peligro con +nada", le digo, "O te voy a hacer volver como un sucio humano"
 
+Por supuesto, el toma la tirada. Se despierta en los brazos de una partera elfa... muchos siglos despues, aplausos en la mesa, incluso de aquellos que jugaban como humanos.
 
->"How on earth do you survive THIS?"
+## APENDICE C: THE HIT POINT GRIND IS DEATH.
 
+Debido a que Dungeon World es un juego que da la pariencia de tener tiradas de "golpe (Saja-Raja/Disparar)" y Puntos de Golpe, es muy sencillo caer en la viejo estilo de tictac golpear, errar, golpear, acertar, daño, golpear, errar, golpear, daño, el enemigo car, etc. Mientras la ficción cae detras. ESTO ES ABURRIDO
+Because Dungeon World is a game that appears to have "to hit" rolls (Hack & Slash / Volley) and hit points, it is very easy to fall into the old style of tick-tock to-hit, miss, to-hit, hit, damage, to-hit, miss, to-hit, damage, enemy falls, etc, while the fiction lies fallow.  ESTA ES UNA ABURRIDA; DENSA MUERTE.
 
-Every single time I have used this question, it has been a huge winner. To demonstrate, here's one of my favorite war stories: 
+Si sienten que esto está pasando, transformen la situación ficcional con cada movimiento que hagan. Fuercen a los jugadores a manobriar. Dibujen un mapa para tenerlos pensando sobre las aportunidades. Demuestren el poder supremo del posicionamiento ficcional.
 
+Si algún Guerrero o Paladín está solo machacando monstruos sin imaginación, denle en le rostro. Usen alguna oportunidad de oro disparada por cualquiera en la mesa para tirarles lagún movimiento difícil. Noquenlos, ensucienlos, ponganlos en lucha cuerpo a cuerpo, cuando sus lujosas espadas y lanzas sean inútiles. Desarmenlos con un movimento de la lucha. Haganlos Desafiar el Peligro y hagan que ellos tengan  que decir como Desafiarían el peligro.
 
-An elf PC has rigged a powerful magical bomb in the basement of the Tower of Sorcery. While further exploring the Tower, he is cornered by dream warriors. With no escape possible, he remotely detonates the bomb, which, as we have established, will definitely bring the whole Tower down.
+Magos y Exploradores son más suceptibles al juego aburrido. Con sus movimientos, pueden sentarse tranquilos y disparar a sus blancos desde la distancia. El resultado "Tenés que acercarte al peligro para poder acertar el tiro" de un 7-9 en disparar es buenisimo, si bien incompleto, cura este problema.
 
+Tieren a estos artilleros al agua,hagan que las cuerdas de sus arcos o libros de hechizos se mojen, Iluminenlos con fuego, Manden mosntruos voladores exptra o saltadores sobre ellos. Sugieran que estarían mejor si el Guerrero pudiera defenderlos. El movimiento defensa es muy bueno en Dunngeon World. Amo esta mecánica que promueve el trabajo en equipo y creo un puntero bien defendido es algo glorioso de ver.
 
-"Okay, how on earth do you survive this?" I ask.
+### APENDICE D:TEMAS COMUNES EN LA CREACIÓN DE PERSONAJES:
+1. "Los PG están basados en su puntos de Constitución, no el modificador CON."
+2. "La grilla de atributos estándar está en la línea finita arriba del bloque de atributos. Si, lo sé es difícil de ver."
+3. "Toda la armadura que tienen se agrega a sus puntos de armadura"
+4. “Los Magos de primer nivle tienen tres hechizos en su libro de hechizos. Pueden tener dos de ellos memorizados en cualquier momento. ueden tirar  lanzar hechizos todas las veces que quieran, pero unas tiradas bajas en su movimento de Lanzar Hechizo puede hacer que se olvide del hechizo.
+5. "Comunmente obtienen PX en las pifias y hacer cosas de sus alineaciones, pero para este tipo de partidas no importa mucho, vamos a subir de nivel solo una vez y hasta la mitad.
 
-
-"I reincarnate,” he says.
-
-
-Now this elf-wizard was a big old anti-human bigot. And so I sense an opportunity to impose some good ol’ Twilight Zone moralizing irony on on his elven ass. "You better Defy Danger with +nothing," I say, "or I am going to make you come back as a dirty human."
-
-
-Of course, he boxcars the roll. He awakes in the arms of an elven midwife, centuries later, and there was much applause at the table, even from those who had played humans.
-
-## APPENDIX C: HIT POINT GRIND IS DEATH.
-Because Dungeon World is a game that appears to have "to hit" rolls (Hack & Slash / Volley) and hit points, it is very easy to fall into the old style of tick-tock to-hit, miss, to-hit, hit, damage, to-hit, miss, to-hit, damage, enemy falls, etc, while the fiction lies fallow.  THIS IS BORING, GRINDY DEATH.
-
-
-If you feel this happening, transform the fictional situation with every move you make.  Force the players to maneuver. Draw a map to get them thinking about opportunities. Demonstrate the supreme power of fictional positioning.
-
-
-If some Fighter or Paladin is just whacking the monsters unimaginatively, get in their face.  Use a golden opportunity triggered by anyone at the table to hit them with a hard move.  Knock them over, get them dirty, get into Hand range with them where their fancy swords and polearms are useless. Disarm them with a grapple move. Make them Defy Danger and make them tell you how they Defy Danger.
-
-
-Wizards and Rangers are particularly susceptible to boring play.  With their moves, they can just sit back and plink the target from a safe distance. The "you have to move into danger to get your shot" 7-9 result on Volley is a wonderful, if incomplete, cure for this problem.  
-
-
-Throw those artillery guys into water, get their bowstrings and spellbooks wet. Light them on fire. Send extra flying monsters or jumpers at them. Suggest that they'd be better off if the Fighter could stand in defense for them. The Defense move is pretty great in Dungeon World.  I love mechanics that promote teamwork and I think a well-defended striker is a glorious thing to see.
-
-### APPENDIX D: COMMON CHARACTER CREATION HANGUPS:
-1. "HP is based on your Constitution score, not your CON modifier."
-2. "Your standard attribute array is in the tiny black line atop the attribute block.  Yeah, I know it's hard to see."  
-3. "All the armour you have adds up to your armour score."  
-4. “1st-level Wizards have three spells in their spellbook. They can have two of those spells memorized at any time.  They can cast spells as many times as they like, but a poor roll on their Spellcasting move may cause them to forget a spell."
-5. "Ordinarily you'd get XP for failing rolls and doing alignment stuff, but it doesn't matter for this game, we're going to level up halfway through."
-
-## THANKS TO
+## GRACIAS A:
 Gray Pawn, Morgan Stinson, Ross Cowman, Erich Lichnock, Philip LaRose, Jamie Fristrom, Jay Loomis, Victoria Garcia, and everyone else I’ve ever  played with experimented on at Games on Demand.
 
-## FURTHER READING
-* _Play Unsafe_ by Graham Walmsley is an outstanding guide to the use of improvisational techniques in tabletop RPGs.
-* [Things To Do In the First Session of Your Dungeon World Game](https://docs.google.com/document/d/1f2MR7NyN41T9QxsYXUhMJCUvXWWX0VYxp1tAtYiOxWs/edit) by Tim Franzke has a lot of terrific suggestions that will help you to be a fan of the characters.
+## OTRAS LECTURAS
+* _Play Unsafe_ bDE Graham Walmsley es una excepcional guía para el uso de tecnicas de improvisación en juegos de rol de mesa.
+* [Cosas a hacer en tu Primer sesión juego de Dungeon Worlde](https://docs.google.com/document/d/1f2MR7NyN41T9QxsYXUhMJCUvXWWX0VYxp1tAtYiOxWs/edit) por Tim Franzke tiene un montón de terribles sugerencias que ayudaran a que seas un fanático de los personajes.
 
-## FURTHER CONVERSATIONS
-See my other game stuff at http://john.aegard.com.
+## OTRAS CONVERSCIONES
+Vean más cosas mías en  http://john.aegard.com.
 
 
-If you’d like to talk about this further, you can circle me up on Google Plus, which is where I have most of my RPG conversations these days. I welcome your comments and war stories!
+Si quieren hablar sobre otras cosas, pueden encontrarme en Google Plus, que es donde suelo tener la mayoría de mis conversaciones sobre RPG en estos días. ¡Son bienvenidos sus comentarios e historias de guerra!
 
-## REVISION HISTORY
-2014-09-23: Initial publication.
-2015-08-12: Added new Bonds Aid or Interfere move.
+## HISTORIAL DE REVISIONES
+2014-09-23: Publicación inicial.
+2015-08-12: Nuevos vínculos agregados y movimientos de interferencia.
