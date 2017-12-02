@@ -1,4 +1,4 @@
-# Planificar la Caza de Dragones: Dirigir ajustadas 4 horas de partidas auto-conclusivas de Dungeon World, sin ninguna preparación
+# Planificar la Cacería de Dragones: Dirigir partidas auto-conclusivas de 4 horas justa de Dungeon World, sin ninguna preparación
 
 by John Aegard 
 
