@@ -1,6 +1,7 @@
-# Planificar la Cacería de Dragones: Dirigir partidas auto-conclusivas de 4 horas justa de Dungeon World, sin ninguna preparación
+# Planificando la Cacería de Dragones: Dirigir partidas de 4 horas justas, auto-conclusivas de Dungeon World, sin ninguna preparación
 
 by John Aegard 
+Traducido irrespetuosamente por Alvar Maciel
 
 **Índice**
 
@@ -87,7 +88,6 @@ Pueden preguntar a otros jugadores algunas de las siguientes preguntas si quiere
 >Bardo, ¿Cuándo fue la última ves que estuviste aquí? ¿Cómo era el lugar entonces? ¿En qué ha cambiado?
 
 
-
 >¿Clerigo, por qué los peregrinos de <nombre del diós> viajan hasta este lugar? ¿Por qué este lugar es tan especial para el Diós <Nombre del Diós elegido por el clerigo>
 
 >Guerrero, ¿Qué batalla se combatió aquí? ¿Quienes combatieron?
@@ -161,7 +161,6 @@ También, mantengan esa Fatalidad Inminente en mente por todas las razones habit
 
 ### PREGUNTAS DE OPOSICIÓN
 Pregunten una o más de las siguientes preguntas para sacar ideas de oposición.
-Ask one or more of the following questions to get ideas about the opposition.
 
 >Bardo o Mago, ¿Por qué necesitaron protección cuando viajaron hacia acá?
 
@@ -182,7 +181,7 @@ Ask one or more of the following questions to get ideas about the opposition.
 
 ### ¡MÁS PREGUNTAS!
 
-El brujo de Dungeon World Tim Franzke ha compilado [una maravillosa lista de consejos específicos para DJ](https://docs.google.com/document/d/1f2MR7NyN41T9QxsYXUhMJCUvXWWX0VYxp1tAtYiOxWs/edit) que los ayudaran a ser unos fanáticos de los personajes. Mírenlos para tener más ideas sobe como tejer su juego de DW a su grupo de jugadores.
+El brujo de Dungeon World Tim Franzke ha compilado [una maravillosa lista de consejos específicos para el DJ](https://docs.google.com/document/d/1f2MR7NyN41T9QxsYXUhMJCUvXWWX0VYxp1tAtYiOxWs/edit) que los ayudaran a ser unos fanáticos de los personajes. Mírenlos para tener más ideas sobe como tejer su juego de DW a su grupo de jugadores.
 
 ## VINCULOS
 Una vez que tengan bastantes P&R para establecer el escenario, pidan a cada personaje que escriba un vínculo. Si necesitan alguna ayuda, acá hay algunas preguntas que pueden hacer y que apuntan a vínculos estándars:
@@ -220,8 +219,6 @@ Y acá hay algunas preguntas que pueden crear vínculos alternativos:
 
 **Cuando ayudas o interferís**, tiren +vinculo como se hace normalmente. Si no tienen vínculos con el destinatario, tirá +nada. Después de que tu beneficiario hace su movimento, escriban un vínculo con él/ella inpirados en lo que haya ocurrido en el movimento.
 
-
-
 ## ESCENA UNO: PONIENDOSE EN MARCHA.
 
 Muy bien, tenemos los personajes, la ambientación, y algunas premisas. ¡Es momento de dados! Este es mi guión para arrancar con todo:
@@ -246,10 +243,10 @@ Mi monstruo de introducción es algo con un movimento que atrape -- una red, un 
 ### ENFATIZAR MOVIMIENTOS DE BUSQUEDA DE INFORMACIÓN
 
 Queremos que los jugadores estén realizando estos movimentos, porque son una expresión de curiosidad, y cada uno demuestra enganche,y queremos recompensar y responder a ese enganche. Cada movimento de conocimiento es una chance para las personas en la mesa de revelar la trama o la ambientación. Además  --¡Importante! -- los movimentos de información o conocimiento pueden ser usados para cortocircuitar encuentros y estos son 
-enemigos super poderosos de la picadora de puntos de golpe (vean el apendice C para una mejor explicación) [picadora de puntos de golpe](#appendix-c-hit-point-grind-is-death)).
+enemigos super poderosos de la picadora de puntos de golpe (vean el apendice C para una mejor explicación) [picadora de puntos de golpe](#apendice-c-the-hit-point-grind-is-death).
 
 
-Al principio, busquen una oportunidad para mostrar su poder. Hagan que el resultado de un movimiento de información sea obviamente útil incluso con un 7-9. Usen sus respuestas para revelar tacticas decisivas para el encuentro. Ejemplos de mis últimos juegos: 1) El símbolo sagrado del paladín es lo que está provocando a los ghouls del lago y si el grupo la arroja al agua, los no muertos se zambulliran atrás de él. 2) El pueblo-chacal de desierto obedece a su Alpha. Derrotar al Alpha es la forma de cnvertirse en un nuevo Alpha.
+Al principio, busquen una oportunidad para mostrar su poder. Hagan que el resultado de un movimiento de información sea obviamente útil incluso con un 7-9. Usen sus respuestas para revelar tacticas decisivas para el encuentro. Ejemplos de mis últimos juegos: 1) El símbolo sagrado del paladín es lo que está provocando a los ghouls del lago y si el grupo la arroja al agua, los no muertos se zambulliran atrás de él. 2) El pueblo-chacal de desierto obedece a su Alpha. Derrotar al Alpha es la forma de convertirse en un nuevo Alpha.
 
 Den una importancia similar a los movimentos sociales como *parlamentar*. Sean estrictos con el grupo para hacer que el grupo demuestre su ventaja, pero no teman dejar que una posible ventaja y una buena roleada decidan un encuentro.
 
@@ -278,6 +275,7 @@ La mayoría de los jugadores pueden subir de nivel en 10 minutos más o menos --
 Ok,llegamos, ¡este es el gran final! Generalmente les tiro un Monstruo Jefe bien grande al grupo, uno que esté inspirado en las P&R.
 
 Mi monstruo jefe final favorito hasta ahora es algo que llamo Hydra-Quimera, una bestia regenerativa de seis cabezas. Me gusta porque es un monstruo épico único y grande que pelea como seis monstruos y tiene mucha superficie para interactuar con él: Pueden estar encima de ella, debajo, sobre alguno de sus seis cuellos, frente a alguna de las seis cabezas, atrapado en alguna de sus seis mandíbulas, etc. Y recompesan la osadía: sus cabezas son formidables, pero su cuerpo es blando.
+
 ### Hydra-Quimera
 #### gran construcción mágica
 
@@ -327,9 +325,9 @@ El resultado 7-9 de Desafiar el Peligro puede ser muy difícil de decidir. Acá 
 
 **MIRA TUS MOVIMIENTOS**: Para crear un peor resultado, miren a Desafir así:
 
-+10: PJ desafía el peligro
-7-9: PJ desafía el peligro y DJ hace un movimiento
--6: DJ hace un movimiento
+- +10: PJ desafía el peligro
+- 7-9: PJ desafía el peligro y DJ hace un movimiento
+- -6: DJ hace un movimiento
 
 Supongamos que Omar, el ladron está escapando del guardia de la ciudad y tira un 7-9 con el Peligro de ser atrapado. Como DJ, Le voy a dar a Omar su escape. Pero también puedo:
 
@@ -351,7 +349,7 @@ Ahora Omar está leyendo el Cantico de Sog-Yothot para tratar de cerrar la Puert
 
 Aveces voy a trampear en esto e ir directamente hacia otro personaje justo antes de la tirada del movimiento Desafiar el Peligro así la situación puede desarrollar algunas facetas más antes de empezar a complicarnos con los exitos parciales.
 
-**CONSIDEREN EL PELIGRO IMPLICADO A TODAS LAS ESCALAS TEMPORALES**: Usualmente categorizo el peligro como, peligro inmediato, escenas peligrosas o campañas peligrosas. Los agrupo preguntando cuando el dolor del peligro bajará. Si va a bajar enseguida, es un peligro inmediato. Si va a bajar hacia el final de la escena, es una escena peligrosa, Si bajará tiempo después, es un peligro de campaña..
+**CONSIDEREN EL PELIGRO IMPLICADO EN TODAS LAS ESCALAS TEMPORALES**: Usualmente categorizo el peligro como, peligro inmediato, escenas peligrosas o campañas peligrosas. Los agrupo preguntando cuando el dolor del peligro bajará. Si va a bajar enseguida, es un peligro inmediato. Si va a bajar hacia el final de la escena, es una escena peligrosa, Si bajará tiempo después, es un peligro de campaña..
 
 Por ejemplo, digamos que Omar el Ladrón está por saltar hacia un techo (peligro inmediato) tratando de escapar de la guardia (escena peligrosa) mientras trata de permanecer anónimo (peligro de campaña). Estos son los tres peligros en una simple acción. Uno de estos debe ser declarado como Desafiar el Peligro.
 
@@ -380,8 +378,7 @@ Por supuesto, el toma la tirada. Se despierta en los brazos de una partera elfa.
 
 ## APENDICE C: THE HIT POINT GRIND IS DEATH.
 
-Debido a que Dungeon World es un juego que da la pariencia de tener tiradas de "golpe (Saja-Raja/Disparar)" y Puntos de Golpe, es muy sencillo caer en la viejo estilo de tictac golpear, errar, golpear, acertar, daño, golpear, errar, golpear, daño, el enemigo car, etc. Mientras la ficción cae detras. ESTO ES ABURRIDO
-Because Dungeon World is a game that appears to have "to hit" rolls (Hack & Slash / Volley) and hit points, it is very easy to fall into the old style of tick-tock to-hit, miss, to-hit, hit, damage, to-hit, miss, to-hit, damage, enemy falls, etc, while the fiction lies fallow.  ESTA ES UNA ABURRIDA; DENSA MUERTE.
+Debido a que Dungeon World es un juego que da la pariencia de tener tiradas de "golpe (Saja-Raja/Disparar)" y Puntos de Golpe, es muy sencillo caer en la viejo estilo de tictac golpear, errar, golpear, acertar, daño, golpear, errar, golpear, daño, el enemigo car, etc. Mientras la ficción cae detras. ESTO ES UNA ABURRIDA; DENSA MUERTE.
 
 Si sienten que esto está pasando, transformen la situación ficcional con cada movimiento que hagan. Fuercen a los jugadores a manobriar. Dibujen un mapa para tenerlos pensando sobre las aportunidades. Demuestren el poder supremo del posicionamiento ficcional.
 
@@ -405,12 +402,14 @@ Gray Pawn, Morgan Stinson, Ross Cowman, Erich Lichnock, Philip LaRose, Jamie Fri
 * _Play Unsafe_ bDE Graham Walmsley es una excepcional guía para el uso de tecnicas de improvisación en juegos de rol de mesa.
 * [Cosas a hacer en tu Primer sesión juego de Dungeon Worlde](https://docs.google.com/document/d/1f2MR7NyN41T9QxsYXUhMJCUvXWWX0VYxp1tAtYiOxWs/edit) por Tim Franzke tiene un montón de terribles sugerencias que ayudaran a que seas un fanático de los personajes.
 
-## OTRAS CONVERSCIONES
-Vean más cosas mías en  http://john.aegard.com.
+## OTRAS CONVERSACIONES
+Vean más cosas mías en  http://john.aegard.com
 
 
 Si quieren hablar sobre otras cosas, pueden encontrarme en Google Plus, que es donde suelo tener la mayoría de mis conversaciones sobre RPG en estos días. ¡Son bienvenidos sus comentarios e historias de guerra!
 
 ## HISTORIAL DE REVISIONES
+
 2014-09-23: Publicación inicial.
+
 2015-08-12: Nuevos vínculos agregados y movimientos de interferencia.
