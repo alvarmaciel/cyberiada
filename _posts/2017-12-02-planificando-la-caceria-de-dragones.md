@@ -2,10 +2,10 @@
 layout: post
 title:  "Planificando la Cacería de Dragones"
 image: '{{site.url}}{{site.baseurl}}/assets/img/285-dungeon-world-papel.jpg'
-date:   2017-12-03 12:30:31
+date: 2017-12-03 12:30:31
 tags:
 - juegos de rol
-description: 'Dirigir partidas auto-conclusivas de Dungeon World en 4 horas, sin preparación alguna by John Aegard Traducido irrespetuosamente por Alvar Maciel [ENLACE A LA VERSIÓN PDF, EPUB, MOBI](https://www.gitbook.com/book/alvarmaciel/armando-partidas-rapidas-de-dungeon-world/)'
+description: 'Dirigir partidas auto-conclusivas de Dungeon World en 4 horas, sin preparación alguna de John Aegard Traducido irrespetuosamente por Alvar Maciel [ENLACE A LA VERSIÓN PDF, EPUB, MOBI](https://www.gitbook.com/book/alvarmaciel/armando-partidas-rapidas-de-dungeon-world/)'
 categories:
 - traducciones
 ---
