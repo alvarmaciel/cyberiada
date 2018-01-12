@@ -1,11 +1,15 @@
-*I love history*.
+*Amo la historia*
 
-*But history doesn’t love me back*,
+*Pero la historia no me devuelve su amor*
 
-*Whenever I call her I get her answering machine*.
+*Cada vez que la llamo me responde su contestador automático*
 
-*She says: “Insert logo here.”*
+*Ella dice: "Inserte su logo aquí"*
 
+
+Un tanque en un pedestal. Los humos ascienden del motor. Un tanque sovietico
+llamdo IS# por Iosip Stalin está siendo reutilizado por un grupo de
+separatistas pro-rusos en Konstantinovka
 
 A tank on a pedestal. Fumes are rising from the engine. A Soviet battle
 tank—called IS3 for Iosip Stalin—is being repurposed by a group of
